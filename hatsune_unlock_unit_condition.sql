@@ -1,0 +1,18 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'hatsune_unlock_unit_condition' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_mission_id' INTEGER NOT NULL, 'top_description' TEXT NOT NULL, 'description_1' TEXT NOT NULL, 'description_2' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO hatsune_unlock_unit_condition VALUES(1,107601,10004,71004025,'BOSS 토벌로 오픈!\n앞으로 {0}마리','[3C404E]이벤트를 진행하여 BOSS에게 도전\nBOSS 토벌을 계속 진행하면 한정 캐릭터 획득!![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(2,108001,10005,71005025,'BOSS 토벌로 오픈!\n앞으로 {0}마리','[3C404E]이벤트를 진행하여 BOSS에게 도전\nBOSS 토벌을 계속 진행하면 한정 캐릭터 획득!![-]]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(3,108201,10007,71007031,'BOSS NORMAL 토벌로 오픈!','[3C404E]이벤트를 진행하여 보스에 도전! \n보스 NORMAL을 토벌하면 한정 캐릭터 오픈![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(4,108501,10009,71009031,'BOSS NORMAL 토벌로 오픈!','[3C404E]이벤트를 진행하여 보스에 도전! \n보스 NORMAL을 토벌하면 한정 캐릭터 오픈![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(5,108901,10010,71010031,'BOSS NORMAL 토벌로 오픈!','[3C404E]이벤트를 진행하여 보스에 도전! \n보스 NORMAL을 토벌하면 한정 캐릭터 오픈![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(6,109001,10011,71011031,'BOSS NORMAL 토벌로 오픈!','[3C404E]이벤트를 진행하여 보스에 도전! \n보스 NORMAL을 토벌하면 한정 캐릭터 오픈![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(7,109301,10013,71013031,'BOSS NORMAL 토벌로 오픈!','[3C404E]이벤트를 진행하여 보스에 도전! \n보스 NORMAL을 토벌하면 한정 캐릭터 오픈![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(8,109801,10017,71017031,'BOSS NORMAL 토벌로 오픈!','[3C404E]이벤트를 진행하여 보스에 도전! \n보스 NORMAL을 토벌하면 한정 캐릭터 오픈![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(9,110101,10019,71019031,'BOSS NORMAL 토벌로 오픈!','[3C404E]이벤트를 진행하여 보스에 도전! \n보스 NORMAL을 토벌하면 한정 캐릭터 오픈![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(10,107601,10020,71020031,'BOSS NORMAL 토벌로 오픈!','[3C404E]이벤트를 진행하여 보스에 도전! \n보스 NORMAL을 토벌하면 한정 캐릭터 오픈![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(11,110501,10021,71021035,'BOSS NORMAL 토벌로 오픈!','[3C404E]이벤트를 진행하여 보스에 도전! \n보스 NORMAL을 토벌하면 한정 캐릭터 오픈![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(12,108001,10022,71022031,'BOSS NORMAL 토벌로 오픈!','[3C404E]이벤트를 진행하여 보스에 도전! \n보스 NORMAL을 토벌하면 한정 캐릭터 오픈![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(13,111201,10025,71025031,'BOSS NORMAL 토벌로 오픈!','[3C404E]이벤트를 진행하여 보스에 도전! \n보스 NORMAL을 토벌하면 한정 캐릭터 오픈![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+INSERT INTO hatsune_unlock_unit_condition VALUES(15,108201,10026,71026031,'BOSS NORMAL 토벌로 오픈!','[3C404E]이벤트를 진행하여 보스에 도전! \n보스 NORMAL을 토벌하면 한정 캐릭터 오픈![-]','[3C404E]보스 NORMAL 토벌로 오픈!');
+COMMIT;

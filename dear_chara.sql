@@ -1,0 +1,15 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'dear_chara' ('event_id' INTEGER NOT NULL, 'chara_index' INTEGER NOT NULL, 'chara_name' TEXT NOT NULL, 'max_dear_point' INTEGER NOT NULL, 'reference_type' INTEGER NOT NULL, 'reference_id' INTEGER NOT NULL, 'episode_unlock_offset_x' INTEGER NOT NULL, 'episode_unlock_offset_y' INTEGER NOT NULL, 'dear_point_up_offset_x' INTEGER NOT NULL, 'dear_point_up_offset_y' INTEGER NOT NULL, PRIMARY KEY('event_id','chara_index'));
+INSERT INTO dear_chara VALUES(10017,1,'에밀리아',1000,1,109901,0,0,0,0);
+INSERT INTO dear_chara VALUES(10017,2,'렘',1000,1,109701,0,0,0,0);
+INSERT INTO dear_chara VALUES(10017,3,'람',1000,1,109801,0,0,0,0);
+INSERT INTO dear_chara VALUES(10019,1,'스즈나',1000,1,110001,0,0,0,0);
+INSERT INTO dear_chara VALUES(10019,2,'미사키',1000,1,110201,0,0,0,0);
+INSERT INTO dear_chara VALUES(10023,1,'클로에',1000,2,110801,0,0,0,0);
+INSERT INTO dear_chara VALUES(10023,2,'치에루',1000,2,110901,0,0,0,0);
+INSERT INTO dear_chara VALUES(10023,3,'유니',1000,2,111001,0,0,0,0);
+INSERT INTO dear_chara VALUES(10025,1,'미미',1000,1,111301,0,0,0,0);
+INSERT INTO dear_chara VALUES(10025,2,'쿄우카',1000,1,111101,0,0,0,0);
+INSERT INTO dear_chara VALUES(10025,3,'미소기',1000,1,111201,0,0,0,0);
+COMMIT;

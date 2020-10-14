@@ -1,0 +1,10 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'campaign_freegacha' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'freegacha_1' INTEGER NOT NULL, 'freegacha_10' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'stock_10_flag' INTEGER NOT NULL, 'relation_id' INTEGER NOT NULL, 'relation_count' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO campaign_freegacha VALUES(1,1,0,1,'2019/05/22 5:00:00','2019/06/01 4:59:59',0,0,0);
+INSERT INTO campaign_freegacha VALUES(2,2,0,1,'2099/09/17 15:00:00','2099/09/28 4:59:59',0,0,0);
+INSERT INTO campaign_freegacha VALUES(3,3,0,1,'2019/09/17 15:00:00','2019/09/28 4:59:59',0,0,0);
+INSERT INTO campaign_freegacha VALUES(4,4,0,1,'2020/01/22 5:00:00','2020/02/04 4:59:59',1,0,0);
+INSERT INTO campaign_freegacha VALUES(5,5,0,1,'2020/03/18 5:00:00','2020/04/01 4:59:59',1,0,0);
+INSERT INTO campaign_freegacha VALUES(6,6,0,1,'2020/09/14 5:00:00','2020/10/01 4:59:59',1,0,0);
+COMMIT;
