@@ -85,7 +85,7 @@ INSERT INTO sqlite_stat1 VALUES('goldset_data',NULL,'70');
 INSERT INTO sqlite_stat1 VALUES('sekai_add_times_data',NULL,'12');
 INSERT INTO sqlite_stat1 VALUES('clan_battle_s_map_data','clan_battle_s_map_data_0_clan_battle_id','78 4');
 INSERT INTO sqlite_stat1 VALUES('unit_unique_equip',NULL,'62');
-INSERT INTO sqlite_stat1 VALUES('story_detail',NULL,'944');
+INSERT INTO sqlite_stat1 VALUES('story_detail',NULL,'924');
 INSERT INTO sqlite_stat1 VALUES('content_map_data',NULL,'4');
 INSERT INTO sqlite_stat1 VALUES('odds_name_data',NULL,'81');
 INSERT INTO sqlite_stat1 VALUES('hatsune_special_boss_ticket_count',NULL,'1');
