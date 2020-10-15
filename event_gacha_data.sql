@@ -26,5 +26,13 @@ INSERT INTO event_gacha_data VALUES(10023,10023,'숲의 겁쟁이와 성스러�
 INSERT INTO event_gacha_data VALUES(10024,10024,'흑철의 망령(나이트메어)',2,60232,1,5);
 INSERT INTO event_gacha_data VALUES(10025,10025,'리틀 브레이브 할로윈 나이트!',2,60242,1,5);
 INSERT INTO event_gacha_data VALUES(10026,10026,'트릭 오어 푸딩! 약속의 할로윈 파티',2,60252,1,5);
+INSERT INTO event_gacha_data VALUES(10027,10027,'드래곤 익스플로러즈',2,60262,1,5);
+INSERT INTO event_gacha_data VALUES(10028,10028,'트와일라이트 브레이커즈',2,60272,1,5);
+INSERT INTO event_gacha_data VALUES(10029,10029,'프레젠트 패닉! 랜드솔의 산타들',2,60282,1,5);
+INSERT INTO event_gacha_data VALUES(10030,10030,'망각의 캐럴',2,60292,1,5);
+INSERT INTO event_gacha_data VALUES(10031,10031,'질주! 랜드솔 길드 레이스',2,60302,1,5);
+INSERT INTO event_gacha_data VALUES(10032,10032,'신춘 트윙클 크라이시스!',2,60312,1,5);
+INSERT INTO event_gacha_data VALUES(10033,10033,'마법소녀 둘은 미스티&퓨어리',2,60322,1,5);
+INSERT INTO event_gacha_data VALUES(10034,10034,'배틀 오브 발렌타인! 마음이 부딪히는 스위트 배틀',2,60332,1,5);
 INSERT INTO event_gacha_data VALUES(19003,10003,'뱀파이어 헌터 with 이리야 토벌증 교환',2,60022,1,5);
 COMMIT;

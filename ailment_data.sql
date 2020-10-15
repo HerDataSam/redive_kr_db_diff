@@ -26,4 +26,8 @@ INSERT INTO ailment_data VALUES(22,59,-1,'회복 저해');
 INSERT INTO ailment_data VALUES(23,61,-1,'패닉');
 INSERT INTO ailment_data VALUES(24,60,-1,'각인 부여');
 INSERT INTO ailment_data VALUES(25,62,-1,'공포');
+INSERT INTO ailment_data VALUES(26,69,-1,'순록 변신');
+INSERT INTO ailment_data VALUES(27,8,10,'기절');
+INSERT INTO ailment_data VALUES(28,9,5,'저주');
+INSERT INTO ailment_data VALUES(29,70,-1,'HP 변화');
 COMMIT;

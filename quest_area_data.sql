@@ -29,6 +29,10 @@ INSERT INTO quest_area_data VALUES(11025,'25 레디우스 군봉・동쪽 산기
 INSERT INTO quest_area_data VALUES(11026,'26 페테로 대삼림・서부',102,'bgm_M260','bgm_M260','2020/09/14 15:00:00','2030/12/17 14:59:59');
 INSERT INTO quest_area_data VALUES(11027,'27 페테로 대삼림・동부',102,'bgm_M260','bgm_M260','2020/10/15 15:00:00','2030/12/17 14:59:59');
 INSERT INTO quest_area_data VALUES(11028,'28 디즈탈 침식 하천・북부',102,'bgm_M278','bgm_M278_E28','2020/11/16 15:00:00','2030/12/17 14:59:59');
+INSERT INTO quest_area_data VALUES(11029,'29 디즈탈 침식 하천・남부',102,'bgm_M278','bgm_M278_E29','2020/12/15 15:00:00','2031/12/17 14:59:59');
+INSERT INTO quest_area_data VALUES(11030,'30 후테라 절벽・북부',102,'bgm_M293','bgm_M293','2021/01/18 15:00:00','2031/12/17 14:59:59');
+INSERT INTO quest_area_data VALUES(11031,'31 후테라 절벽・남부',102,'bgm_M293','bgm_M293','2029/02/17 15:00:00','2031/12/17 14:59:59');
+INSERT INTO quest_area_data VALUES(11032,'32 패시어 삼림・남부',102,'bgm_M339','bgm_M339','2029/03/17 15:00:00','2031/12/17 14:59:59');
 INSERT INTO quest_area_data VALUES(12001,'1 주노 평야',101,'bgm_M61','bgm_M61','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO quest_area_data VALUES(12002,'2 팔라스 고원',101,'bgm_M61','bgm_M61_02','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO quest_area_data VALUES(12003,'3 헤베 구릉',101,'bgm_M61','bgm_M61_03','2015/12/17 15:00:00','2030/12/17 14:59:59');
@@ -57,7 +61,11 @@ INSERT INTO quest_area_data VALUES(12025,'25 레디우스 군봉・동쪽 산기
 INSERT INTO quest_area_data VALUES(12026,'26 페테로 대삼림・서부',102,'bgm_M260','bgm_M260','2020/09/14 15:00:00','2030/12/17 14:59:59');
 INSERT INTO quest_area_data VALUES(12027,'27 페테로 대삼림・동부',102,'bgm_M260','bgm_M260','2020/10/15 15:00:00','2030/12/17 14:59:59');
 INSERT INTO quest_area_data VALUES(12028,'28 디즈탈 침식 하천・북부',102,'bgm_M278','bgm_M278_E28','2020/11/16 15:00:00','2030/12/17 14:59:59');
-INSERT INTO quest_area_data VALUES(13018,'18 파에톤 벌판・북부',102,'bgm_M179','bgm_M179','2015/12/17 15:00:00','2030/12/17 14:59:59');
+INSERT INTO quest_area_data VALUES(12029,'29 디즈탈 침식 하천・남부',102,'bgm_M278','bgm_M278_E29','2020/12/15 15:00:00','2031/12/17 14:59:59');
+INSERT INTO quest_area_data VALUES(12030,'30 후테라 절벽・북부',102,'bgm_M293','bgm_M293','2021/01/18 15:00:00','2031/12/17 14:59:59');
+INSERT INTO quest_area_data VALUES(12031,'31 후테라 절벽・남부',102,'bgm_M293','bgm_M293','2029/02/17 15:00:00','2031/12/17 14:59:59');
+INSERT INTO quest_area_data VALUES(12032,'32 패시어 삼림・남부',102,'bgm_M339','bgm_M339','2029/03/17 15:00:00','2031/12/17 14:59:59');
+INSERT INTO quest_area_data VALUES(13018,'18 파에톤 벌판・북부',102,'bgm_M179','bgm_M179','2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO quest_area_data VALUES(18001,'유적조사 퀘스트 ',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO quest_area_data VALUES(19001,'신전조사 퀘스트',0,'','','2020/09/29 15:00:00','2030/12/17 14:59:59');
 INSERT INTO quest_area_data VALUES(21001,'마나 퀘스트',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');

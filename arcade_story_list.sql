@@ -1,0 +1,12 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'arcade_story_list' ('story_id' INTEGER NOT NULL, 'arcade_id' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('story_id'));
+INSERT INTO arcade_story_list VALUES(5021700,1003,'카오리와 해변에서 대특훈!');
+INSERT INTO arcade_story_list VALUES(5021701,1003,'인사로 시작해 인사로 끝난다');
+INSERT INTO arcade_story_list VALUES(5021710,1003,'자신의 한계에 도전하라');
+INSERT INTO arcade_story_list VALUES(5021711,1003,'진짜가 제일');
+INSERT INTO arcade_story_list VALUES(5027700,1004,'다시 엘피스 섬으로!');
+INSERT INTO arcade_story_list VALUES(5027701,1004,'과열하는 전투');
+INSERT INTO arcade_story_list VALUES(5027702,1004,'실력자 등장');
+INSERT INTO arcade_story_list VALUES(5027703,1004,'전투의 끝에……');
+COMMIT;

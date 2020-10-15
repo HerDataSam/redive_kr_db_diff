@@ -1,0 +1,15 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'profile_frame' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'type' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO profile_frame VALUES(1,'자동',1,'2020-02-15 15:00:00','',1);
+INSERT INTO profile_frame VALUES(2,'디폴트',2,'2020-02-15 15:00:00','',2);
+INSERT INTO profile_frame VALUES(3,'기념',3,'2020-02-15 15:00:00','',3);
+INSERT INTO profile_frame VALUES(4,'핑크',1,'2020-02-15 15:00:00','',4);
+INSERT INTO profile_frame VALUES(5,'레드',1,'2020-02-15 15:00:00','',5);
+INSERT INTO profile_frame VALUES(6,'옐로',1,'2020-02-15 15:00:00','',6);
+INSERT INTO profile_frame VALUES(7,'그린',1,'2020-02-15 15:00:00','',7);
+INSERT INTO profile_frame VALUES(8,'라이트 블루',1,'2020-02-15 15:00:00','',8);
+INSERT INTO profile_frame VALUES(9,'블루',1,'2020-02-15 15:00:00','',9);
+INSERT INTO profile_frame VALUES(10,'퍼플',1,'2020-02-15 15:00:00','',10);
+INSERT INTO profile_frame VALUES(11,'그레이',1,'2020-02-15 15:00:00','',11);
+COMMIT;

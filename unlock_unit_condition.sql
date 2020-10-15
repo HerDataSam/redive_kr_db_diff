@@ -14,7 +14,7 @@ INSERT INTO unlock_unit_condition VALUES(101001,'히메미야 마호',1,0,1,2,31
 INSERT INTO unlock_unit_condition VALUES(101101,'이노사키 리노',1,0,1,2,31011,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1);
 INSERT INTO unlock_unit_condition VALUES(101201,'카시와자키 하츠네',1,0,1,2,31012,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3);
 INSERT INTO unlock_unit_condition VALUES(101301,'탄노 나나카',1,0,1,2,31013,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3);
-INSERT INTO unlock_unit_condition VALUES(101401,'키리하라 카스미',1,0,1,2,31014,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3);
+INSERT INTO unlock_unit_condition VALUES(101401,'키리하라 카스미',1,0,1,2,31014,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(101501,'아이카와 미사토',1,0,1,2,31015,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(101601,'미나미 스즈나',1,0,1,2,31016,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(101701,'컁 카오리',1,0,1,2,31017,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
@@ -58,6 +58,7 @@ INSERT INTO unlock_unit_condition VALUES(105901,'콧코로',1,0,1,2,31059,15,0,0
 INSERT INTO unlock_unit_condition VALUES(106001,'캬루',1,0,1,2,31060,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(106101,'무이미',1,0,1,2,31061,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(106301,'아리사',1,0,1,2,31063,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO unlock_unit_condition VALUES(106501,'카야',1,0,1,2,31065,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(107001,'네네카',1,0,1,2,31070,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(107101,'크리스티나',1,0,1,2,31071,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(107501,'페코린느(여름)',1,0,1,2,31075,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
@@ -96,4 +97,14 @@ INSERT INTO unlock_unit_condition VALUES(110801,'클로에',1,0,1,2,31108,145,0,
 INSERT INTO unlock_unit_condition VALUES(111101,'쿄우카(할로윈)',1,0,1,2,31111,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(111201,'미소기(할로윈)',1,0,1,2,31112,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(111301,'미미(할로윈)',1,0,1,2,31113,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(111401,'루나',1,0,1,2,31114,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(111501,'크리스티나(크리스마스)',1,0,1,2,31115,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(111601,'노조미(크리스마스)',1,0,1,2,31116,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(111701,'이리야(크리스마스)',1,0,1,2,31117,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(111901,'콧코로(새해)',1,0,1,2,31119,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(112001,'캬루(새해)',1,0,1,2,31120,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(112101,'스즈메(새해)',1,0,1,2,31121,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(112201,'카스미(매지컬)',1,0,1,2,31122,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(112301,'시오리(매지컬)',1,0,1,2,31123,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(180401,'페코린느(프린세스)',1,0,1,2,31804,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 COMMIT;

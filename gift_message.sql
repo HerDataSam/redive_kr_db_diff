@@ -15,6 +15,7 @@ INSERT INTO gift_message VALUES(2011,'「{0}」 {1}일째 「{2}」에서 획득
 INSERT INTO gift_message VALUES(2012,'「{0}」 {1}일째 획득한 아이템입니다.',17,2,0,0);
 INSERT INTO gift_message VALUES(2013,'「{0}」에서 획득한 아이템입니다.',1,0,0,0);
 INSERT INTO gift_message VALUES(2014,'{0}월 클랜전 {2}회차 달성 보상입니다.',10,11,19,0);
+INSERT INTO gift_message VALUES(2015,'「{0}」의 추가 보상입니다.',20,0,0,0);
 INSERT INTO gift_message VALUES(3001,'길드 하우스 2층 오픈 시 획득한 아이템입니다.',0,0,0,0);
 INSERT INTO gift_message VALUES(3002,'길드 하우스 3층 오픈 시 획득한 아이템입니다.',0,0,0,0);
 INSERT INTO gift_message VALUES(9101,'게임 이용에 불편을 드려 죄송합니다.',0,0,0,0);
@@ -61,6 +62,8 @@ INSERT INTO gift_message VALUES(9314,'뽑기 갱신에 따른 캐릭터 교환Pt
 INSERT INTO gift_message VALUES(9315,'스태미나가 변환되어 획득한 코인입니다.',0,0,0,0);
 INSERT INTO gift_message VALUES(9316,'SP 페스 캐릭터 교환Pt 변환 아이템입니다',0,0,0,0);
 INSERT INTO gift_message VALUES(9317,'친구 서포트를 통해 획득한 보상입니다.',0,0,0,0);
+INSERT INTO gift_message VALUES(9318,'보유 가능 수량을 초과하여 획득한 스페셜 교환 티켓 보상입니다.',0,0,0,0);
+INSERT INTO gift_message VALUES(9319,'구입 시 획득한 아이템입니다.',0,0,0,0);
 INSERT INTO gift_message VALUES(9401,'데일리 쥬얼 팩 아이템입니다.',0,0,0,0);
 INSERT INTO gift_message VALUES(9402,'「데일리 마나 팩」 구매로 획득한 마나 입니다.',0,0,0,0);
 INSERT INTO gift_message VALUES(9403,'「7일간 스태미나 응원 팩」 구매로 획득한 보상입니다.',0,0,0,0);
@@ -69,6 +72,10 @@ INSERT INTO gift_message VALUES(9405,'아이템 장비 패키지Ⅲ를 구입하
 INSERT INTO gift_message VALUES(9406,'아이템 장비 패키지Ⅳ를 구입하여 획득한 아이템입니다.',0,0,0,0);
 INSERT INTO gift_message VALUES(9407,'아이템 장비 패키지Ⅰ를 구입하여 획득한 아이템입니다.',0,0,0,0);
 INSERT INTO gift_message VALUES(9408,'데일리 하프 팩 아이템입니다.',0,0,0,0);
+INSERT INTO gift_message VALUES(9409,'아이템 장비 패키지Ⅲ(재판매)를 구입하여 획득한 아이템입니다.',0,0,0,0);
+INSERT INTO gift_message VALUES(9410,'아이템 장비 패키지Ⅳ(재판매)를 구입하여 획득한 아이템입니다.',0,0,0,0);
+INSERT INTO gift_message VALUES(9411,'아이템 장비 패키지Ⅴ를 구입하여 획득한 아이템입니다.',0,0,0,0);
+INSERT INTO gift_message VALUES(9412,'아이템 장비 패키지Ⅵ를 구입하여 획득한 아이템입니다.',0,0,0,0);
 INSERT INTO gift_message VALUES(9501,'「이벤트 로그인 보너스 」 {1}일째 획득한 아이템입니다.',13,2,0,0);
 INSERT INTO gift_message VALUES(9502,'이벤트 퀘스트 첫 클리어로 획득한 아이템입니다.',13,0,0,0);
 INSERT INTO gift_message VALUES(9503,'이벤트 퀘스트 {1}클리어로 획득한 아이템입니다.',13,14,0,0);
@@ -82,4 +89,5 @@ INSERT INTO gift_message VALUES(9510,'「{0}」에서 획득한 아이템입니�
 INSERT INTO gift_message VALUES(9600,'미니 게임에서 획득한 아이템입니다.',0,0,0,0);
 INSERT INTO gift_message VALUES(9700,'「로보리마 습격!」에서 획득한 랭킹 보상입니다.',0,0,0,0);
 INSERT INTO gift_message VALUES(9701,'「로보리마 습격!」에서 획득한 어택 보상입니다.',0,0,0,0);
+INSERT INTO gift_message VALUES(9702,'「왕도 종말 결전」에서 획득한 아이템입니다.',0,0,0,0);
 COMMIT;

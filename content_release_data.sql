@@ -28,4 +28,6 @@ INSERT INTO content_release_data VALUES(602,1,0,11007001,'메인 퀘스트 7-1(N
 INSERT INTO content_release_data VALUES(603,1,0,11016014,'메인 퀘스트 16-14（NORMAL）클리어로 오픈');
 INSERT INTO content_release_data VALUES(701,1,0,11003001,'메인 퀘스트 3-1(NORMAL) 클리어로 오픈');
 INSERT INTO content_release_data VALUES(904,1,0,11002009,'메인 퀘스트 2-9(NORMAL) 클리어로 오픈');
+INSERT INTO content_release_data VALUES(905,1,0,11002009,'메인 퀘스트 2-9(NORMAL) 클리어로 오픈');
+INSERT INTO content_release_data VALUES(906,1,0,0,'');
 COMMIT;

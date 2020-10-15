@@ -3,7 +3,7 @@ BEGIN TRANSACTION;
 CREATE TABLE IF NOT EXISTS 'character_love_rankup_text' ('chara_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'love_level' INTEGER NOT NULL, 'scale' REAL NOT NULL, 'position_x' INTEGER NOT NULL, 'position_y' INTEGER NOT NULL, 'voice_id_1' INTEGER NOT NULL, 'face_1' INTEGER NOT NULL, 'serif_1' TEXT NOT NULL, 'voice_id_2' INTEGER NOT NULL, 'face_2' INTEGER NOT NULL, 'serif_2' TEXT NOT NULL, 'voice_id_3' INTEGER NOT NULL, 'face_3' INTEGER NOT NULL, 'serif_3' TEXT NOT NULL, PRIMARY KEY('chara_id'));
 INSERT INTO character_love_rankup_text VALUES(1001,'하루사키 히요리',2,1.3999999999999999111,0,0,0,1,'히요리예요♪\n활기차게 힘내자♪',0,1,'앗!\n저기 곤경에 처한 사람 발견!',0,1,'저기~ 기사 군\!n같이 도와주자~');
 INSERT INTO character_love_rankup_text VALUES(1002,'쿠사노 유이',2,1.3999999999999999111,0,0,0,1,'다른 사람처럼\n나도 강해져야해',0,1,'소중한 사람을\n지킬 수 있게 되고 싶다…고',0,1,'내 내가\n지금 뭐라고 한 거지\n아하하…');
-INSERT INTO character_love_rankup_text VALUES(1003,'시죠 레이',2,1.3999999999999999111,0,0,0,1,'펜싱을 배워보는 건 어때?',0,1,'너에게 필요한 집중력과 감성을',0,1,'조금은 갈고 닦을 수 있을거야');
+INSERT INTO character_love_rankup_text VALUES(1003,'시죠우 레이',2,1.3999999999999999111,0,0,0,1,'펜싱을 배워보는 건 어때?',0,1,'너에게 필요한 집중력과 감성을',0,1,'조금은 갈고 닦을 수 있을거야');
 INSERT INTO character_love_rankup_text VALUES(1004,'호다카 미소기',2,1.5,0,0,0,1,'저기 오빠!',0,1,'오늘은 뭐 하고 놀까?',0,1,'미소기는 말이지~\n술래잡기하고 싶어!');
 INSERT INTO character_love_rankup_text VALUES(1006,'카제미야 아카리',2,1.3999999999999999111,0,0,0,1,'카제미야 아카리예요',0,1,'저기…',0,1,'나랑 같이…\n안 갈래?');
 INSERT INTO character_love_rankup_text VALUES(1007,'이즈모 미야코',2,1.5,0,0,0,1,'이즈모 미야코인거야~',0,1,'푸딩 먹고 싶은거야~',0,1,'먹을 거에 관한 원한은 무서운거야~');
@@ -33,7 +33,7 @@ INSERT INTO character_love_rankup_text VALUES(1040,'후타바 아오이',2,1.399
 INSERT INTO character_love_rankup_text VALUES(1042,'미스미 치카',2,1.3999999999999999111,0,0,0,1,'미스미 치카입니다',0,1,'제 노래로\n모두가 행복해지면 좋겠다고…',0,1,'그렇게 생각하고 있어요');
 INSERT INTO character_love_rankup_text VALUES(1043,'아키 마코토',2,1.3999999999999999111,0,0,0,1,'아키 마코토야',0,1,'뭐?\n너도 저 녀석의 친구라고?',0,1,'의 의심해서 미안해…');
 INSERT INTO character_love_rankup_text VALUES(1044,'이리야 온스타인',2,1.3999999999999999111,0,0,0,1,'이 몸이야말로 밤을 통치하는 자!',0,1,'살아 있는 모든 생물들이여!',0,1,'짐의 위대한 힘 앞에\n무릎 꿇도록 하라!\n핫핫하!');
-INSERT INTO character_love_rankup_text VALUES(1045,'토미 쿠우카',2,1.3999999999999999111,0,0,0,1,'거기서 기사는 요정을 난폭하게……',0,1,'그흐흐흐흐…… 앗!',0,1,'쿠 쿠우카한테 무슨 볼일이라도?!');
+INSERT INTO character_love_rankup_text VALUES(1045,'토오미 쿠우카',2,1.3999999999999999111,0,0,0,1,'거기서 기사는 요정을 난폭하게……',0,1,'그흐흐흐흐…… 앗!',0,1,'쿠 쿠우카한테 무슨 볼일이라도?!');
 INSERT INTO character_love_rankup_text VALUES(1046,'미야사카 타마키',2,1.3999999999999999111,0,0,0,1,'미야사카 타마키냥♪\n고양이 좋아하냥?',0,1,'자유롭게♪\n자고 놀고 먹고 싸우고…',0,1,'음~\n고양이는 정말 최고다냥~♪');
 INSERT INTO character_love_rankup_text VALUES(1048,'오오가미 미후유',2,1.3999999999999999111,0,0,0,1,'오오가미 미후유야!',0,1,'그럼 빨리 퀘스트를…',0,1,'…하려고 했는데\n알바 시간이다!\n나중에 보자!');
 INSERT INTO character_love_rankup_text VALUES(1049,'호시노 시즈루',2,1.3999999999999999111,0,0,0,1,'호시노 시즈루야!',0,1,'퀘스트도 배틀도\n청소도 빨래도',0,1,'누나가 전~부\n해줄테니까!');

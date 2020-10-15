@@ -58,6 +58,9 @@ INSERT INTO unit_background VALUES(105901,'콧코로',500130,'에스트렐라의
 INSERT INTO unit_background VALUES(106001,'캬루',500130,'에스트렐라의 가도',0.0,3);
 INSERT INTO unit_background VALUES(106101,'무이미',500341,'라비린스 길드 거점',0.0,20);
 INSERT INTO unit_background VALUES(106301,'아리사',500170,'미스테리온 삼림',0.0,3);
+INSERT INTO unit_background VALUES(106501,'카야',500833,'밀림 텐트',0.0,4);
+INSERT INTO unit_background VALUES(106601,'이노리',500833,'밀림 텐트',0.0,4);
+INSERT INTO unit_background VALUES(106701,'호마레',500833,'밀림 텐트',0.0,2);
 INSERT INTO unit_background VALUES(106801,'모사쿠지 아키라',500030,'랜드솔 번화가',0.0,2);
 INSERT INTO unit_background VALUES(107001,'네네카',500341,'라비린스 길드 거점',0.0,2);
 INSERT INTO unit_background VALUES(107101,'크리스티나 모건',500090,'랜드솔 성 입구',0.0,2);
@@ -99,4 +102,14 @@ INSERT INTO unit_background VALUES(111001,'유니',500730,'성 테레사 여학�
 INSERT INTO unit_background VALUES(111101,'쿄우카(할로윈)',500811,'저택 메인 홀',0.0,2);
 INSERT INTO unit_background VALUES(111201,'미소기(할로윈)',500811,'저택 메인 홀',0.0,4);
 INSERT INTO unit_background VALUES(111301,'미미(할로윈)',500811,'저택 메인 홀',0.0,4);
+INSERT INTO unit_background VALUES(111401,'루나',500175,'미스테리온 삼림',0.0,4);
+INSERT INTO unit_background VALUES(111501,'크리스티나(크리스마스)',500038,'랜드솔 번화가 크리스마스',0.0,4);
+INSERT INTO unit_background VALUES(111601,'노조미(크리스마스)',500038,'랜드솔 번화가 크리스마스',0.0,4);
+INSERT INTO unit_background VALUES(111701,'이리야(크리스마스)',500038,'랜드솔 번화가 크리스마스',0.0,4);
+INSERT INTO unit_background VALUES(111901,'콧코로(새해)',500910,'랜드솔 번화가 역전',0.0,2);
+INSERT INTO unit_background VALUES(112001,'캬루(새해)',500910,'랜드솔 번화가 역전',0.0,6);
+INSERT INTO unit_background VALUES(112101,'스즈메(새해)',500910,'랜드솔 번화가 역전',0.0,2);
+INSERT INTO unit_background VALUES(112201,'카스미(매지컬)',500010,'랜드솔 시가지 낮',0.0,2);
+INSERT INTO unit_background VALUES(112301,'시오리(매지컬)',500010,'랜드솔 시가지 낮',0.0,2);
+INSERT INTO unit_background VALUES(180401,'페코린느(프린세스)',500130,'에스트렐라 가도',0.0,4);
 COMMIT;

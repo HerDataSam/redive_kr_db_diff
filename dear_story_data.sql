@@ -4,5 +4,8 @@ CREATE TABLE IF NOT EXISTS 'dear_story_data' ('story_group_id' INTEGER NOT NULL,
 INSERT INTO dear_story_data VALUES(6017,6,10017,'Re:제로부터 모이는 이세계 식탁',0,1,'2020/06/30 15:00:00','2030/04/24 14:59:59');
 INSERT INTO dear_story_data VALUES(6019,6,10019,'스즈나 레인보우 스테이지!',0,1,'2020/07/30 15:00:00','2030/04/24 14:59:59');
 INSERT INTO dear_story_data VALUES(6023,6,10023,'숲의 겁쟁이와 성스러운 학교의 이단아',0,1,'2020/09/29 15:00:00','2030/04/24 14:59:59');
-INSERT INTO dear_story_data VALUES(6025,6,10025,'리틀 브레이브 할로윈 나이트!',0,1,'2020/10/15 15:00:00','2030/04/24 14:59:59');
+INSERT INTO dear_story_data VALUES(6025,6,10025,'리틀 브레이브 할로윈 나이트!',0,1,'2020/10/29 15:00:00','2030/04/24 14:59:59');
+INSERT INTO dear_story_data VALUES(6027,6,10027,'드래곤 익스플로러즈',0,1,'2020/11/30 15:00:00','2030/04/24 14:59:59');
+INSERT INTO dear_story_data VALUES(6029,6,10029,'프레젠트 패닉! 랜드솔의 산타들',0,1,'2020/12/29 15:00:00','2030/04/24 14:59:59');
+INSERT INTO dear_story_data VALUES(6033,6,10033,'마법소녀 둘은 미스티&퓨어리',0,1,'2021/03/02 15:00:00','2030/04/24 14:59:59');
 COMMIT;

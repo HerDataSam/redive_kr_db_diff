@@ -58,6 +58,7 @@ INSERT INTO actual_unit_background VALUES(105931,'나츠메 코코로',510120,2)
 INSERT INTO actual_unit_background VALUES(106031,'모모치 키루야',510350,2);
 INSERT INTO actual_unit_background VALUES(106131,'소노우에 무이미',510121,4);
 INSERT INTO actual_unit_background VALUES(106331,'아리사',510350,4);
+INSERT INTO actual_unit_background VALUES(106531,'키도 카야',510352,4);
 INSERT INTO actual_unit_background VALUES(107031,'우츠시미 네네카',510181,4);
 INSERT INTO actual_unit_background VALUES(107131,'크리스티나 모건',510120,4);
 INSERT INTO actual_unit_background VALUES(107531,'유스티아나 F 아스트라이아',510360,4);
@@ -90,4 +91,14 @@ INSERT INTO actual_unit_background VALUES(110831,'쿠로에 하나코',510150,2)
 INSERT INTO actual_unit_background VALUES(111131,'히카와 쿄우카',510301,4);
 INSERT INTO actual_unit_background VALUES(111231,'호다카 미소기',510100,4);
 INSERT INTO actual_unit_background VALUES(111331,'아카네 미미',510100,4);
+INSERT INTO actual_unit_background VALUES(111431,'루나',510240,4);
+INSERT INTO actual_unit_background VALUES(111531,'크리스티나 모건',510280,4);
+INSERT INTO actual_unit_background VALUES(111631,'사쿠라이 노조미',510150,9);
+INSERT INTO actual_unit_background VALUES(111731,'이리야 온스타인',510282,4);
+INSERT INTO actual_unit_background VALUES(111931,'나츠메 코코로',510140,2);
+INSERT INTO actual_unit_background VALUES(112031,'모모치 키루야',510350,2);
+INSERT INTO actual_unit_background VALUES(112131,'아마노 스즈메',510390,4);
+INSERT INTO actual_unit_background VALUES(112231,'키리하라 카스미',510320,2);
+INSERT INTO actual_unit_background VALUES(112331,'카시와자키 시오리',510320,2);
+INSERT INTO actual_unit_background VALUES(180431,'유스티아나 F 아스트라이아',510350,4);
 COMMIT;

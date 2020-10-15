@@ -9,4 +9,6 @@ INSERT INTO tower_story_data VALUES(7005,7,5,'장난꾸러기 고스트 하우�
 INSERT INTO tower_story_data VALUES(7006,7,6,'두 사람의 긍지는 유대감과 함께',0,1,'2020/06/11 15:00:00','2030/04/24 14:59:59');
 INSERT INTO tower_story_data VALUES(7007,7,7,'명풍전기 외전・흡혈귀 전설',0,1,'2020/08/13 15:00:00','2030/04/24 14:59:59');
 INSERT INTO tower_story_data VALUES(7008,7,8,'달콤한 여동생 슈터즈!',0,1,'2020/10/14 15:00:00','2030/04/24 14:59:59');
+INSERT INTO tower_story_data VALUES(7009,7,9,'폭신폭신 메르헨 여행길',0,1,'2020/12/15 15:00:00','2030/04/24 14:59:59');
+INSERT INTO tower_story_data VALUES(7010,7,10,'선생님들의 가이던스',0,1,'2029/10/14 15:00:00','2030/04/24 14:59:59');
 COMMIT;
