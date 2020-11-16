@@ -82,7 +82,7 @@ rarity_6_quest_data,rarity_6_quest_data_0_rarity_6_quest_id,"4 1"
 goldset_data,,70
 sekai_add_times_data,,12
 clan_battle_s_map_data,clan_battle_s_map_data_0_clan_battle_id,"78 4"
-unit_unique_equip,,62
+unit_unique_equip,,65
 story_detail,,928
 content_map_data,,4
 odds_name_data,,81
@@ -158,7 +158,7 @@ unlock_rarity_6,unlock_rarity_6_0_material_id,"352 36"
 unlock_rarity_6,unlock_rarity_6_0_unit_id_1_unlock_level,"352 4 3"
 unlock_rarity_6,unlock_rarity_6_0_unit_id_1_slot_id,"352 4 2"
 unlock_rarity_6,sqlite_autoindex_unlock_rarity_6_1,"352 4 2 1"
-unique_equipment_craft,,62
+unique_equipment_craft,,65
 clan_battle_odds_data,clan_battle_odds_data_0_odds_group_id,"22 5"
 clan_battle_odds_data,sqlite_autoindex_clan_battle_odds_data_1,"22 5 1 1"
 unit_data,,147
@@ -190,7 +190,7 @@ unit_comments,unit_comments_0_unit_id_1_use_type,"1312 6 4"
 unit_comments,unit_comments_0_unit_id,"1312 6"
 dear_story_data,dear_story_data_0_value,"7 1"
 quest_area_data,,70
-unique_equipment_data,,62
+unique_equipment_data,,65
 music_list,,117
 event_top_adv,event_top_adv_0_event_id_1_type,"300 11 3"
 hatsune_bg_change_data,hatsune_bg_change_data_0_target_type_1_area_id,"10 5 2"
@@ -256,13 +256,13 @@ equipment_enhance_data,sqlite_autoindex_equipment_enhance_data_1,"14 4 1"
 dear_chara,dear_chara_0_event_id,"18 3"
 dear_chara,sqlite_autoindex_dear_chara_1,"18 3 1"
 unit_enemy_data,,597
-unique_equipment_enhance_data,sqlite_autoindex_unique_equipment_enhance_data_1,"139 139 1"
+unique_equipment_enhance_data,sqlite_autoindex_unique_equipment_enhance_data_1,"149 149 1"
 kmk_navi_comment,,11
-unique_equipment_enhance_rate,,62
+unique_equipment_enhance_rate,,65
 hatsune_item,,34
 unit_motion_list,,106
-unique_equipment_rankup,unique_equipment_rankup_0_equip_id,"372 6"
-unique_equipment_rankup,sqlite_autoindex_unique_equipment_rankup_1,"372 6 1"
+unique_equipment_rankup,unique_equipment_rankup_0_equip_id,"455 7"
+unique_equipment_rankup,sqlite_autoindex_unique_equipment_rankup_1,"455 7 1"
 hatsune_emblem_mission_reward,hatsune_emblem_mission_reward_0_reward_id,"86 2"
 hatsune_emblem_mission_reward,hatsune_emblem_mission_reward_0_mission_reward_id,"86 2"
 hatsune_schedule,hatsune_schedule_0_series_event_id,"34 34"
