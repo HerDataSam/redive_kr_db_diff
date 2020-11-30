@@ -78,12 +78,12 @@ tower_story_detail,,60
 srt_score,,3
 hatsune_daily_mission_data,,69
 login_bonus_message_data,login_bonus_message_data_0_login_bonus_id,"118 40"
-rarity_6_quest_data,rarity_6_quest_data_0_rarity_6_quest_id,"4 1"
+rarity_6_quest_data,rarity_6_quest_data_0_rarity_6_quest_id,"5 1"
 goldset_data,,70
 sekai_add_times_data,,12
 clan_battle_s_map_data,clan_battle_s_map_data_0_clan_battle_id,"78 4"
 unit_unique_equip,,65
-story_detail,,928
+story_detail,,932
 content_map_data,,4
 odds_name_data,,81
 hatsune_special_boss_ticket_count,,1
@@ -97,7 +97,7 @@ quest_defeat_notice,,6
 kaiser_restriction_group,kaiser_restriction_group_0_restriction_group_id,"100 20"
 kaiser_restriction_group,sqlite_autoindex_kaiser_restriction_group_1,"100 20 1"
 srt_top_talk,srt_top_talk_0_talk_id,"45 2"
-srt_panel,srt_panel_0_panel_id,"573 5"
+srt_panel,srt_panel_0_panel_id,"572 5"
 skip_boss_data,,48
 pct_evaluation,,5
 hatsune_multi_route_parameter,hatsune_multi_route_parameter_0_type,"10 4"
@@ -154,10 +154,10 @@ event_story_data,event_story_data_0_value,"23 1"
 campaign_mission_schedule,,1
 equipment_craft,,236
 hatsune_stationary_mission_data,,1075
-unlock_rarity_6,unlock_rarity_6_0_material_id,"352 36"
-unlock_rarity_6,unlock_rarity_6_0_unit_id_1_unlock_level,"352 4 3"
-unlock_rarity_6,unlock_rarity_6_0_unit_id_1_slot_id,"352 4 2"
-unlock_rarity_6,sqlite_autoindex_unlock_rarity_6_1,"352 4 2 1"
+unlock_rarity_6,unlock_rarity_6_0_material_id,"356 30"
+unlock_rarity_6,unlock_rarity_6_0_unit_id_1_unlock_level,"356 4 3"
+unlock_rarity_6,unlock_rarity_6_0_unit_id_1_slot_id,"356 4 2"
+unlock_rarity_6,sqlite_autoindex_unlock_rarity_6_1,"356 4 2 1"
 unique_equipment_craft,,65
 clan_battle_odds_data,clan_battle_odds_data_0_odds_group_id,"22 5"
 clan_battle_odds_data,sqlite_autoindex_clan_battle_odds_data_1,"22 5 1 1"
@@ -196,9 +196,9 @@ event_top_adv,event_top_adv_0_event_id_1_type,"300 11 3"
 hatsune_bg_change_data,hatsune_bg_change_data_0_target_type_1_area_id,"10 5 2"
 gacha_exchange_lineup,,78
 campaign_schedule,,353
-unit_rarity,unit_rarity_0_unit_material_id,"634 6"
-unit_rarity,unit_rarity_0_unit_id,"634 6"
-unit_rarity,sqlite_autoindex_unit_rarity_1,"634 6 1"
+unit_rarity,unit_rarity_0_unit_material_id,"635 6"
+unit_rarity,unit_rarity_0_unit_id,"635 6"
+unit_rarity,sqlite_autoindex_unit_rarity_1,"635 6 1"
 enemy_parameter,,5180
 tower_enemy_parameter,,2073
 content_release_data,,29
@@ -277,7 +277,7 @@ pct_reward,pct_reward_0_pct_point_type,"1 1"
 sekai_boss_fix_reward,,5
 clan_battle_boss_fix_reward,,40
 room_setup,,317
-event_navi_comment,,39
+event_navi_comment,,61
 cooperation_quest_data,,6
 chara_e_ticket_data,chara_e_ticket_data_0_jewel_store_id,"1 1"
 tower_cloister_quest_data,,5
