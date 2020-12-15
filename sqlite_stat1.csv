@@ -228,7 +228,7 @@ love_chara,,12
 hatsune_boss,hatsune_boss_0_event_id_1_difficulty,"124 4 1"
 clan_battle_boss_damage_rank,clan_battle_boss_damage_rank_0_damage_rank_id,"160 4"
 clan_battle_boss_damage_rank,sqlite_autoindex_clan_battle_boss_damage_rank_1,"160 4 1 1"
-wave_group_data,,2411
+wave_group_data,,2387
 campaign_mission_category,campaign_mission_category_0_campaign_id_1_type,"2 2 1"
 equipment_enhance_rate,,273
 pct_result,pct_result_0_character_id,"4 2"
