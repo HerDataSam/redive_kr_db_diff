@@ -644,7 +644,7 @@ a/bdl_partsstorystatusbonusplate.unity3d,81805b0c9e7c5353cecbd726c5d14850,tutori
 a/bdl_partssupportunitplate.unity3d,c744a4d72b89993a647da9f762de8c27,tutorial1,8399,
 a/bdl_partsticketgachalineupplate.unity3d,c54ea8e4c8dba047ed60a39ce8b34820,tutorial1,8707,
 a/bdl_partstitleuicustomize_1001.unity3d,9451864b7098b1d0f46887d392e8bbf2,tutorial1,51393,
-a/bdl_partstitleuicustomize_1002.unity3d,2a742ec0e00eb8e41be481df49b950cd,tutorial1,51382,
+a/bdl_partstitleuicustomize_1002.unity3d,c8f263253393f840ce590c04886a3d15,tutorial1,52063,
 a/bdl_partstopicsfilterplates.unity3d,a6f8849001463ad0b2797c6408734a32,tutorial1,8404,
 a/bdl_partstouchpopup.unity3d,1a4e976fb42ea55b7cf70834ce677a2e,tutorial1,6176,
 a/bdl_partstowerbanner.unity3d,1bb6eefcd1e38d978f8b84af8397df03,tutorial1,6779,
