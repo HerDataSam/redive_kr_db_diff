@@ -1,5 +1,5 @@
 id,mission_id,disp_order,category_icon,receive_text,after_text,gift_message_id,term,repurchase_day,group_id,system_id_1,add_num_1,item_record_id,condition_flg,reward_rate_1
-9,17001001,1,403,"데일리 쥬얼 팩 {1}일째 아이템 세트","데일리 쥬얼 팩 미수령 쥬얼",0,30,3,0,104,0,1,0,2000
+9,17001001,1,403,"데일리 쥬얼 팩 {1}일째 아이템 세트","데일리 쥬얼 팩 미수령 쥬얼",0,30,0,0,104,0,1,0,2000
 15,0,0,0,"","",0,7,3,1,103,3,0,1,0
 17,0,14,0,"","",8918,0,0,0,0,0,86,0,0
 18,0,0,0,"","",0,30,3,1,103,3,0,1,0
