@@ -1,6 +1,6 @@
 manifest/all_assetmanifest,b47929c15edbebe155c65df100af0f47,every,243675,
 manifest/arcade_assetmanifest,e107e0613cefd2064d478e1605a41668,every,638,
-manifest/banner_assetmanifest,a4a93098d933e3456d57de1cae3e5758,every,11346,
+manifest/banner_assetmanifest,88133ce5b4877f07696deb3893dd330f,every,11346,
 manifest/bdl_assetmanifest,81c650a4c9b3855d9896e7167c122bc7,every,82871,
 manifest/bg_assetmanifest,65e25e11f119883729d3ba7814f3a26f,every,317710,
 manifest/clanbattle_assetmanifest,0f0c34ad12c252fed6d96930eeac617d,every,2757,
