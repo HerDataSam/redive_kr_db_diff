@@ -892,7 +892,7 @@ a/bdl_viewquestspeciallevel.unity3d,51db8c1cdec96ee21be557b1e2219847,tutorial1,1
 a/bdl_viewquesttop.unity3d,0fdc6636260ea6e5b760bcedf0f4d2e6,tutorial0,16995,
 a/bdl_viewquestuniqueequip.unity3d,a50b7b5b44f04ca0d749919b0266a95c,tutorial1,10639,
 a/bdl_viewquestunitexpand.unity3d,bb05bb6a890cb7c02920d40e8e24a974,tutorial1,9677,
-a/bdl_viewracetop.unity3d,7a9c38c7621107cdcea9070302f80312,tutorial1,304035,
+a/bdl_viewracetop.unity3d,159e142c32c9169d12dd0da53c9c3820,tutorial1,279021,
 a/bdl_viewroomtop.unity3d,35f184fbc5b9dc2e5b67b2ef508d7033,tutorial1,55812,
 a/bdl_viewsekairanking.unity3d,2e3cfb4b853c88cb6322d5bb68331398,tutorial1,68951,
 a/bdl_viewshareditemlist.unity3d,6bff9d76b8ffc3e3a7d7ba0ac770729d,tutorial1,21998,
