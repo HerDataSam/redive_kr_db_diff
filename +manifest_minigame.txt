@@ -15,5 +15,5 @@ a/minigame_minigame_1005_texture.unity3d,e2e504ccab06aa2f8570e3603715eb17,common
 a/minigame_minigame_1006.unity3d,b15fe88556f29c3e03826558f6d6fa8f,common,1815097,
 a/minigame_minigame_1006_fx.unity3d,fd943f397fa70df56f68f7ceaad65c6a,common,794028,
 a/minigame_minigame_1006_prefab.unity3d,f898044f73572b04eee689cf4966657e,common,2216193,
-a/minigame_minigame_1006_prefab_sub.unity3d,fda0a60293c9e9874be30a07e5da7e7b,common,2755995,
+a/minigame_minigame_1006_prefab_sub.unity3d,32e006bbbc06e2be95592a137e2bffba,common,2748226,
 a/minigame_minigame_1006_texture.unity3d,12a47c46d14883fb096a0b0ebfce5104,common,6158265,
