@@ -1,4 +1,4 @@
-﻿s/se_adv_fioshing_creak_rod_01.acb,5af2b2dd72e145a9a1574d05b380f3a1,common,14720,
+s/se_adv_fioshing_creak_rod_01.acb,5af2b2dd72e145a9a1574d05b380f3a1,common,14720,
 s/se_cutin_1099.acb,969334f8eb0b4bfb6e25664691fa7f0e,common,198144,
 s/se_adv_misora_gatling_02.acb,bd728da2579ef0e0cf6495669711fce7,common,30176,
 s/se_adv_cooking_grill_01.acb,93633f20b5abf62268d4833fdd5cd614,common,63104,
