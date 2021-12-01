@@ -5,9 +5,9 @@
 <ul>
 <li>Code: NoSuchKey</li>
 <li>Message: The specified key does not exist.</li>
-<li>Key: live/Patch0305/dl/Resources/10028500/Kor/AssetBundles/iOS/&lt;/html></li>
-<li>RequestId: R6RT5ETH3A1K0KNV</li>
-<li>HostId: J0vnY43//fNcBk9DtvAXHkvUAiK2pDjt9JNTtU3h6tfLgYnymbhc5wSlwKVnz0BV9IbESZRcbFA=</li>
+<li>Key: live/Patch0308/dl/Resources//Kor/AssetBundles/iOS/&lt;/html></li>
+<li>RequestId: RZTEA3SDNQFSSYGT</li>
+<li>HostId: RHU/t3jPQulLt99LD3JBkivbOGUYE3EwQFrWTW5CChbv8drKMudyg3FQFWGAcTDUR2ONK4VDPu4=</li>
 </ul>
 <h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
 <ul>

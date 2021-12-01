@@ -1,24 +1,20 @@
-manifest/all_assetmanifest,24e8ede7871abf5702e104dd26c6dfa0,every,266911,
-manifest/animation_assetmanifest,8ba902891f7ec76c47125e549005dd57,every,20249,
-manifest/arcade_assetmanifest,e107e0613cefd2064d478e1605a41668,every,638,
-manifest/banner_assetmanifest,81936904a24a5e354114f45e83329827,every,15274,
-manifest/bdl_assetmanifest,de6987ec79090fc706bfd01b7f528ac9,every,89928,
-manifest/bg_assetmanifest,d42ed6cbc0ff0e20605e10800cc6279b,every,340909,
-manifest/clanbattle_assetmanifest,8eca913cd633adf191c7053689702ce2,every,2756,
-manifest/comic_assetmanifest,d14ae8a319ccc4a322cad760e7b52035,every,15794,
-manifest/consttext_assetmanifest,0547882af73451600c7f1dae54d3f7f6,every,80,
-manifest/event_assetmanifest,75a65f7a734e381e086b6e10eaa066b0,every,80565,
-manifest/font_assetmanifest,c1a19abf78c79ebdf8e8f9a4858a4aae,every,166,
-manifest/howtoplay_assetmanifest,b82fbc2ab30a88869f3755733732483e,every,10157,
-manifest/icon_assetmanifest,a82fed9e8f2a107524206fad64a9f050,every,636718,
-manifest/jukebox_assetmanifest,08ed0f32d9f467339b6761b8c1f8d463,every,14109,
-manifest/lipsyncothers_assetmanifest,adb0fe3acbcbde1d59ffe6fcaeb63a2a,every,90603,
-manifest/loginbonus_assetmanifest,e9dadb2c1442de9b12ee169f87bb710d,every,4783,
-manifest/masterdata_assetmanifest,b076e1930ec7ee916e4bd4e0c0083309,every,79,
-manifest/minigame_assetmanifest,ee535062e817301cdcb290ebddfec9c2,every,1638,
-manifest/resourcedefine_assetmanifest,605e2a110c1c715656775b0494351f7f,every,178,
-manifest/room_assetmanifest,547725f76b2afdbab7208c2e1f2a93c2,every,145390,
-manifest/shader_assetmanifest,806b3f0109d8eb2c594a221f2ab7e65e,every,74,
-manifest/spine_assetmanifest,762614b343e372faa58413883080fb8b,every,224154,
-manifest/storydata_assetmanifest,5f4cc83fd3f52939487936d8075d2634,every,900943,
-manifest/unit_assetmanifest,7f622db2b727e49084cd994760670b8d,every,193745,
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: live/Patch0308/dl/Resources//Kor/AssetBundles/iOS/manifest/manifest_assetmanifest</li>
+<li>RequestId: Q7AT242MRFF9Q6ZE</li>
+<li>HostId: D4u2A3UyQgV4O09jeidXqBYCWDlTkIJeKMJGqizsUwJhZsntdkQZQxct349ejD4KGWPWqhJBx0g=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
