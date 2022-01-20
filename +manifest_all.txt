@@ -146,7 +146,7 @@ a/all_atlasminigamettk.unity3d,36b69058a75cefc7c746161cd190a2a2,tutorial1,733300
 a/all_atlasminigamettkresult.unity3d,2a23cf6b8d4bd6ced67b5999bdaa9dea,tutorial1,507680,
 a/all_atlasminigamettkrewarddetail.unity3d,9e9a0ad5f661a58b96f67e4fa13bd1ad,tutorial1,381952,
 a/all_atlasmultitargets.unity3d,56639536e847538430b3c1ad1ce5c6e4,tutorial1,114802,
-a/all_atlasnewyearloginbonus.unity3d,92b4b1b0e124216e2fbd1a4505efca46,tutorial1,309710,
+a/all_atlasnewyearloginbonus.unity3d,f42e5f74281262055613474b4987c285,tutorial1,314143,
 a/all_atlasnextmode.unity3d,4028e4cb4743e7efab90a5f9a56d7beb,tutorial1,185372,
 a/all_atlasnyxdiary12.unity3d,eb2747d4a2e268a20f64dce87fdffc84,tutorial1,193418,
 a/all_atlasnyxdiary13.unity3d,ecdacf95d637793fc489466ce58958ab,tutorial1,206357,
