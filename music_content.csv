@@ -158,7 +158,7 @@ music_id,name,total_playing_time,listen_start_time,detail,sheet_id,cue_id
 157,"Holy Passion Roses",1:31,0:59,"캐릭터 송\n\n시간 / 01:31\n노래 / 사렌(호리에 유이)\n아키노(마츠자키 레이)\n작사 / 이소가이 요시에\n작곡 / 오노 타카미츠\n편곡 / 타마키 치히로",bgm_M440,bgm_M440
 158,"신춘 미식가 프린세스! 한 방에 건 소녀들",1:06,0:00,"스토리 이벤트 테마\n-｢Brand New Sunrise｣어레인지-\n\n시간 / 01:06\n작곡 / 이케다 켄토(Cygames)\n편곡 / 타다 아키후미",bgm_M435,bgm_M435_juke
 159,"그레이트 툰누스",2:34,0:00,"스토리 이벤트 보스 배틀\n\n시간 / 02:34\n작곡 / 나카무라 히로시\n편곡 / 나카무라 히로시",bgm_M438,bgm_M438_juke
-160,"Brand New Sunrise",1:27,0:55,"캐릭터 송\n\n시간 / 01:27\n노래 / 무이미(한 메구미)\n네네카(이구치 유카)\n작사 / 노무라 이쿠미 (Cygames)\n작곡 / 이케다 켄토(Cygames)\n편곡 / 이케다 켄토(Cygames)",bgm_M441,bgm_M441
+160,"Brand New Sunrise",1:27,0:55,"캐릭터 송\n\n시간 / 01:27\n노래 / 무이미(한 메구미)\n네네카(이구치 유카)\n작사 / 노무라 이쿠미(Cygames)\n작곡 / 이케다 켄토(Cygames)\n편곡 / 이케다 켄토(Cygames)",bgm_M441,bgm_M441
 161,"매우 소중한 일상",1:16,0:00,"스토리 이벤트 테마\n-｢심상~코코로 마음~｣어레인지-\n\n시간 / 01:16\n작곡 / 우츠미 타카아키(TRYTONELABO)\n편곡 / 하세베 쇼(Cygames)",bgm_M442A,bgm_M442A_juke
 162,"이별과 결의",1:16,0:00,"스토리 이벤트 테마\n-｢심상~코코로 마음~｣어레인지-\n\n시간 / 01:16\n작곡 / 우츠미 타카아키(TRYTONELABO)\n편곡 / 하세베 쇼(Cygames)",bgm_M442B,bgm_M442B_juke
 163,"흑풍의 정령",2:26,0:00,"스토리 이벤트 보스 배틀\n\n시간 / 02:26\n작곡 / 히가시오지 켄타\n편곡 / 히가시오지 켄타",bgm_M447,bgm_M447_juke
