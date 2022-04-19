@@ -3184,7 +3184,7 @@ a/all_worldmap_02001101.unity3d,9643e9ba5100fdc8ca2575d2ee3e5d2c,tutorial1,32425
 a/all_worldmap_02001102.unity3d,6b08023bb469d345291f17e8fbf11438,tutorial1,2218451,
 a/all_worldmap_02001201.unity3d,d80aee7d5aa7b66b93be866320c145c4,tutorial1,2228697,
 a/all_worldmap_02001301.unity3d,e03e5161ecde13400603ab3f65859b50,tutorial1,4783393,
-a/all_worldmap_02001302.unity3d,60d8b475040bc925a0afcad4bf209337,tutorial1,1889355,
+a/all_worldmap_02001302.unity3d,2f6fd2a1078e56bc54157112a7b5578c,tutorial1,1888809,
 a/all_worldmap_02001401.unity3d,c58f50de478445b0e3afcc8d3b481646,tutorial1,3321656,
 a/all_worldmap_common.unity3d,d5c3a7519286cc21c2d4da9d786905d5,tutorial1,141168,
 a/all_worldmap_kaiser_battle.unity3d,5e1df65bfd8708638b1716dc79755f1f,tutorial1,1676417,
