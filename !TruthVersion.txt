@@ -1,2 +1,2 @@
-10028500
-http://patch.pcr.kakaogame.com/live/Patch0324/
+
+http://patch.pcr.kakaogames.com/live/Patch0324/
