@@ -6,8 +6,8 @@
 <li>Code: NoSuchKey</li>
 <li>Message: The specified key does not exist.</li>
 <li>Key: live/Patch0324/dl/Resources/Kor/AssetBundles/iOS/&lt;head>&lt;title>404 Not Found&lt;/title>&lt;/head></li>
-<li>RequestId: 4AV8WQ3VBZM97XDM</li>
-<li>HostId: rD1Yf5ttLO5ybt9PdH2R8VO9tr+MaL7fLD+QPvpgagQjDcjj6gj7fxEjMpLEwGfOr+NI4lTM1Lo=</li>
+<li>RequestId: 5V63RYH15PZS3GZ4</li>
+<li>HostId: TuAkCCdH6vjLlIZN9jfh6cXd6JroRlmElYZEl2NDXgUJVyo5iEKjKsuX1UNAS6BJUUokpnPMfKU=</li>
 </ul>
 <h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
 <ul>
