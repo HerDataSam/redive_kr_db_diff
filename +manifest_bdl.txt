@@ -944,7 +944,7 @@ a/bdl_viewclanbattlemission.unity3d,60419bceaff2a035086d63e841b71275,tutorial1,3
 a/bdl_viewclanbattlemylog.unity3d,e82ae9cfc436ba0dd71584e5c22adbec,tutorial1,17920,
 a/bdl_viewclanbattleranking.unity3d,3aae69cd6e08f2f93f92801ea5760dec,tutorial1,33691,
 a/bdl_viewclanbattlesubjugationinfo.unity3d,2ee13979397817a5609e8410c6f0769d,tutorial1,18083,
-a/bdl_viewclanbattletop.unity3d,a79de00f512d192bd27930216266e9a7,tutorial1,39924,
+a/bdl_viewclanbattletop.unity3d,6ce707df71047cad8516a3b21650c384,tutorial1,39924,
 a/bdl_viewclanmemberlist.unity3d,4ce7acdcf01c2860b48e3a70cf173ad0,tutorial1,9701,
 a/bdl_viewclanprofilecard.unity3d,9a7bced80491b87e01e576879b83c761,tutorial1,43124,
 a/bdl_viewclantop.unity3d,b666138a43dd182c4dc1f7f73518cf04,tutorial1,21154,
