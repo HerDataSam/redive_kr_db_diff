@@ -1,2 +1,2 @@
-10034000
-http://patch.pcr.kakaogames.com/live/Patch0500/
+10039000
+http://patch.pcr.kakaogames.com/live/Patch0501/
