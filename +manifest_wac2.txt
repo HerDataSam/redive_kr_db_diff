@@ -1,4 +1,4 @@
 a/wac_still_9000169.unity3d,44a6b02f79af81a7bd3ccc4b9385d045,common,184664,
 a/wac_still_9000170.unity3d,f2a12b5d361f7f55175338642dc4b7ed,common,200096,
 a/wac_still_9000210.unity3d,0663933c78a5d6c498bb8e99f5fca6b7,common,211340,
-a/wac_wac.unity3d,028eefbf9dbe0c942d7ddff44e2e7af1,common,5300492,
+a/wac_wac.unity3d,615ed38f2304dd2164e61285a4ef06ef,common,5300893,
