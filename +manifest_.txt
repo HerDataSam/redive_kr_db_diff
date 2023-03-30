@@ -1,0 +1,20 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: live/Patch0514/dl/Resources/10039000/Kor/AssetBundles/iOS/index.html</li>
+<li>RequestId: FNWTCPCDGNW8WQGB</li>
+<li>HostId: oMnDGMHtIcNz/8WJMu5tlhDCPSBdmKauipRqvHTAg1xkkiE0UPl7s5a9+bHLfvTx6+lTBwIVbpI=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
