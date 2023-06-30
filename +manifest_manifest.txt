@@ -22,7 +22,7 @@ manifest/resourcedefine2_assetmanifest,4c908d83eb35134b7cda2f56fc23a6ef,every,27
 manifest/room2_assetmanifest,1b264e1c0b649b32f3075ee7a5a34464,every,167638,
 manifest/shader2_assetmanifest,a5689b92422bddace4863120a41b291e,every,74,
 manifest/spine2_assetmanifest,5886dd09aa6bb0404576ebc352edf3fd,every,350404,
-manifest/storydata2_assetmanifest,87dd9629a79f119ae9b1b291cb89a58a,every,1334091,
+manifest/storydata2_assetmanifest,c6877892c01b065a4cecda439293e2ad,every,1334091,
 manifest/travel2_assetmanifest,c7c776d79c7ef5783510de6c11099e50,every,3588,
 manifest/unit2_assetmanifest,a4a6c79e31606df18dd7be7bad55092d,every,280606,
 manifest/wac2_assetmanifest,c726c8625b3bbff6dc85c123ca7a8284,every,979,
