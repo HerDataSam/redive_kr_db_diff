@@ -1,2 +1,2 @@
 10049000
-http://patch.pcr.kakaogames.com/live/Patch0709/
+http://patch.pcr.kakaogames.com/live/Patch0711/
