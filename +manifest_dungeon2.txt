@@ -1,4 +1,4 @@
-a/dungeon_dungeondetaildialogeffect.unity3d,405809701d8b7ef97c3d58a57fec60bd,common,136052,
+a/dungeon_dungeondetaildialogeffect.unity3d,ac9eafb1b9ff552fb3b3589bc8b7f81e,common,136099,
 a/dungeon_spdungeon_logo.unity3d,309297b52d933346ed74e0493be921c5,common,22963,
 a/dungeon_thumb_sp_dungeon_battle_log_06.unity3d,fa6018dcba0dfee568c9a7463ec0889f,common,31389,
 a/dungeon_thumb_sp_dungeon_battle_log_07.unity3d,0633fd5b5de96201356735a849f9f15e,common,31254,
