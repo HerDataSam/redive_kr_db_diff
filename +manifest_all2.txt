@@ -379,7 +379,7 @@ a/all_atlastowerbossfloorarrive.unity3d,1d5ddd9a53d5fdeb2595539b3a7ed533,tutoria
 a/all_atlastowerexclear.unity3d,42d680e171265bf4783ed8a1d0379be8,tutorial1,112013,
 a/all_atlastowerfloorarrive.unity3d,bd6d8e5dc0760d643637af3cd1731f4c,tutorial1,135482,
 a/all_atlastowerfloorarrivecommon.unity3d,8d82fe23b007ff24241493f17571d7d3,tutorial1,48384,
-a/all_atlastravel.unity3d,f61e15cf848eadc740fa786857fff801,tutorial1,162035,
+a/all_atlastravel.unity3d,cfcbcc5b2a9a18cc8dfe606e3989f0e2,tutorial1,161993,
 a/all_atlastravelanimation.unity3d,d14de6cf5305354d55c7724ffc19de87,tutorial1,614281,
 a/all_atlastravelexdrama.unity3d,a2e7f69825b9e1781444c1436eb4b25b,tutorial1,72031,
 a/all_atlastravelresult.unity3d,dd56b4a2a58a11788233cce79554204d,tutorial1,164233,
