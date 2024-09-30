@@ -8640,6 +8640,7 @@ a/icon_thumb_still_9000237.unity3d,adcd5e20459b10a086d2ae9df78b4484,tutorial1,58
 a/icon_thumb_still_9000238.unity3d,79abcb8760eef8dd31b1050ec3520d94,tutorial1,5827,
 a/icon_thumb_still_9000239.unity3d,9af58b1c3ab531e52d9e094e7eec48e7,tutorial1,5846,
 a/icon_thumb_still_9000240.unity3d,f44c399f17ceee94609edbc735bb95e5,tutorial1,5876,
+a/icon_thumb_still_9900001.unity3d,6cbde76716e50d2511ab1f15eab0c369,tutorial1,4911,
 a/icon_thumb_story_0000000.unity3d,c3a2e1f0f1811029d8428b1bc618ffeb,tutorial1,3558,
 a/icon_thumb_story_0001002.unity3d,b4532202d3bd8c43ab42e1c4fa2ff5dc,tutorial1,16998,
 a/icon_thumb_story_1001001.unity3d,c6acfc41212da3e339b1ec861e20c593,tutorial1,16569,

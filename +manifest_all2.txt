@@ -4360,7 +4360,7 @@ a/all_materialpartsheader.unity3d,cee6881b53a4b2b9e265fe8a791da8d2,tutorial0,523
 a/all_materialpromotionbonusdetailbutton.unity3d,9e03a9cd1bc5bd68c9844703a1bffa6f,tutorial1,10680,
 a/all_materialquestdetail.unity3d,0bdf100060e3fdfc33405637da840be0,tutorial1,436128,
 a/all_materialquestresult.unity3d,bcff950d7d277f6a2fc71f55f1b7536f,tutorial1,10908,
-a/all_materialrace.unity3d,d3498d9e245ff06469298d741b901199,tutorial1,1129958,
+a/all_materialrace.unity3d,ed1e9b89fe853ca9df211debda2eceda,tutorial1,1126201,
 a/all_materialredeemunit.unity3d,0844a26aa0c75adc8fc97dc924adb921,tutorial1,178343,
 a/all_materialredeemunitrelease_106901.unity3d,e41dfc474d4c3cef26a83a7e8f8220a3,tutorial1,724199,
 a/all_materialredeemunitrelease_118501.unity3d,40753c50b8fb42f8a4ed2bcb9fd40557,tutorial1,372205,
