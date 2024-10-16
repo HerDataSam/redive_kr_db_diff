@@ -1460,7 +1460,7 @@ a/bdl_viewspacebattletop.unity3d,6843d35d2c45183002da684aa64989ec,tutorial1,8014
 a/bdl_viewspecialstilltma.unity3d,700256fe4bb1b5cbdbf2443fa53ae64b,tutorial1,7933,
 a/bdl_viewspecialstillybm.unity3d,86c6958b49da4a5cb5b99e42aaccefe6,tutorial1,11984,
 a/bdl_viewspfesgachatop.unity3d,cd973d3aed86c2a8c80c7a9f83c5e90b,tutorial1,38239,
-a/bdl_viewstoryadventure.unity3d,75367f746557c0e7521bbfb88603191c,tutorial0,109193,
+a/bdl_viewstoryadventure.unity3d,96fb486685f392e67048ca4bfea517ae,tutorial0,109192,
 a/bdl_viewstoryanniversarydetail.unity3d,2e0972e8614cfa1ee85075e876635e7d,tutorial1,8365,
 a/bdl_viewstoryanniversarytop.unity3d,13ce44eea1c6c65303d3eb9ecbdee864,tutorial1,8352,
 a/bdl_viewstorycharacterdetail.unity3d,61fbd5398285a198c1595c51bae09f5d,tutorial1,10621,
