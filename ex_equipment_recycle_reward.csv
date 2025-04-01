@@ -1,5 +1,5 @@
-rarity,enhance_pt_coefficient,coin_coefficient
-1,50,10
-2,150,30
-3,500,100
-4,5000,1000
+coin_coefficient,rarity,enhance_pt_coefficient
+10,1,50
+30,2,150
+100,3,500
+1000,4,5000

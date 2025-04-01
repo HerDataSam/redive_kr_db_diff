@@ -1,2 +1,2 @@
-apa_id,start_time,count_start_time,end_time,close_time,op_story_id,ed_story_id,url_1,url_2,url_3
-1,"2023/06/29 17:00:00","2023/07/12 16:59:59","2023/07/13 16:59:59","2023/07/17 16:59:59",1001,1002,https://cafe.daum.net/priconne/miqO/612?svc=cafeapi,https://cafe.daum.net/priconne/miqO/612?svc=cafeapi,https://cafe.daum.net/priconne/miqO/612?svc=cafeapi
+op_story_id,url_1,url_2,start_time,ed_story_id,close_time,url_3,apa_id,count_start_time,end_time
+1003,http://karyl-yabaival.priconnekr.com/,http://karyl-yabaival.priconnekr.com/,"2025/04/01 0:00:00",0,"2025/04/01 23:59:59",http://karyl-yabaival.priconnekr.com/,1,"2025/04/01 23:59:59","2025/04/01 23:59:59"

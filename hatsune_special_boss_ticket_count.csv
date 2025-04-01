@@ -1,2 +1,2 @@
-id,challenge_count_from,challenge_count_to,use_ticket_num
-1,0,-1,30
+id,challenge_count_to,use_ticket_num,challenge_count_from
+1,-1,30,0
