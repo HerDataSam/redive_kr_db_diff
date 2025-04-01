@@ -1,4 +1,4 @@
-cost_group_id_s,b6db198c84f70b67992bbacfb72ccc31600fdc487b36e603ff2b53d19def25ec,end_time,cc465f9a5ab8b3bee99b475b340ac6d5b6ef661c27a6cbd41fed94b70cec1e1b,map_bgm,resource_id,clan_battle_id,release_month,cost_group_id,start_time,point_per_stamina,last_clan_battle_id,877a15acd0d6f644d4d6c509f9f72f65269a4c43a8e434bcfef53798fdd3de8a
+cost_group_id_s,mode_change_remind_time,end_time,mode_change_end_time,map_bgm,resource_id,clan_battle_id,release_month,cost_group_id,start_time,point_per_stamina,last_clan_battle_id,mode_change_start_time
 2,"2019/04/16 11:59:59","2019/05/21 14:59:59","2019/04/17 11:59:59",bgm_M90,1,1001,4,1,"2019/04/19 15:00:00",1,0,"2019/04/12 12:00:00"
 2,"2019/05/18 11:59:59","2019/06/18 14:59:59","2019/05/19 11:59:59",bgm_M97,2,1002,5,1,"2019/05/21 15:00:00",1,1001,"2019/05/14 12:00:00"
 2,"2019/06/15 11:59:59","2019/07/17 14:59:59","2019/06/16 11:59:59",bgm_M104,1,1003,6,1,"2019/06/18 15:00:00",1,1002,"2019/06/11 12:00:00"

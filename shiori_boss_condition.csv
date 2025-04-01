@@ -1,4 +1,4 @@
-8d65aae5dfc6e387c9e5dc056553b1418bebba9ecf7e08100d140f6c3ebd6bb3,condition_boss_id,event_id,boss_id,1fe8344e4c3faed240f1800670f4552c29add8eb5c98bcc3f5b7b63a6c828e88,condition_quest_id
+release_quest_id,condition_boss_id,event_id,boss_id,release_boss_id,condition_quest_id
 20001201,0,20001,2000101,2000102,20001115
 0,2000101,20001,2000102,2000103,0
 0,2000102,20001,2000103,0,0
