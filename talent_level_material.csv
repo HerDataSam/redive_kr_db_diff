@@ -1,4 +1,4 @@
-item_id,reward_type,point,talent_id,idx
+item_id,reward_type,idx,talent_id,point
 25011,2,1,1,1
 25012,2,1,2,1
 25013,2,1,3,1

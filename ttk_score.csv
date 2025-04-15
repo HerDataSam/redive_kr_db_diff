@@ -1,5 +1,5 @@
-difficulty_level,coefficient_difficulty,coefficient_wrong_num,coefficient_coin_score,life
-1,1000,20000000,20000,5
-2,1200,30000000,30000,5
-3,1500,40000000,40000,5
-4,2000,50000000,50000,5
+coefficient_wrong_num,coefficient_coin_score,life,difficulty_level,coefficient_difficulty
+20000000,20000,5,1,1000
+30000000,30000,5,2,1200
+40000000,40000,5,3,1500
+50000000,50000,5,4,2000

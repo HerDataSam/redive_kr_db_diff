@@ -1,2 +1,2 @@
-end_time,max_exec_count,start_time,campaign_id
-"2021/04/03 4:59:59",10,"2021/03/31 5:00:00",1
+campaign_id,max_exec_count,start_time,end_time
+1,10,"2021/03/31 5:00:00","2021/04/03 4:59:59"

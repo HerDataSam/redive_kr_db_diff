@@ -1,6 +1,6 @@
-speaker_unit_id_3,unit_id_3,unit_2_pos_y,speaker_unit_id_5,speaker_unit_id_2,unit_1_pos_y,unit_2_pos_x,unit_id_2,unit_3_depth,unit_3_pos_y,unit_1_pos_x,unit_1_clip,unit_1_depth,original_unit_id,unit_3_clip,unit_3_pos_x,speaker_unit_id_9,unit_2_clip,speaker_unit_id_7,unit_2_depth,speaker_unit_id_10,unit_id_1,unit_only_disp,speaker_unit_id_6,speaker_unit_id_8,speaker_unit_id_4,speaker_unit_id_1
-118401,0,0,118401,118301,0,100,118401,0,0,-145,0,1,180701,0,0,0,0,0,0,0,118301,0,0,0,118401,118301
-120401,120601,0,120501,120601,0,125,120501,2,0,0,0,0,180801,0,-125,0,0,0,1,0,120401,1,120501,0,120401,120601
-121801,0,0,0,121701,0,100,121801,0,0,-145,0,1,180901,0,0,0,0,0,0,0,121701,0,0,0,121801,121701
-124401,0,0,0,124301,0,-145,124401,0,0,100,0,1,181001,0,0,0,0,0,0,0,124301,0,0,0,124401,124301
-128201,0,0,0,128101,0,100,128201,0,0,-105,0,0,181101,0,0,0,0,0,1,0,128101,0,0,0,128201,128101
+unit_only_disp,unit_1_depth,unit_2_pos_x,original_unit_id,speaker_unit_id_9,unit_id_2,speaker_unit_id_5,unit_3_pos_y,unit_1_clip,unit_1_pos_y,speaker_unit_id_4,unit_2_pos_y,unit_2_depth,unit_3_depth,speaker_unit_id_2,speaker_unit_id_8,speaker_unit_id_7,unit_id_1,speaker_unit_id_6,unit_3_pos_x,speaker_unit_id_10,speaker_unit_id_1,unit_2_clip,unit_3_clip,speaker_unit_id_3,unit_id_3,unit_1_pos_x
+0,1,100,180701,0,118401,118401,0,0,0,118401,0,0,0,118301,0,0,118301,0,0,0,118301,0,0,118401,0,-145
+1,0,125,180801,0,120501,120501,0,0,0,120401,0,1,2,120601,0,0,120401,120501,-125,0,120601,0,0,120401,120601,0
+0,1,100,180901,0,121801,0,0,0,0,121801,0,0,0,121701,0,0,121701,0,0,0,121701,0,0,121801,0,-145
+0,1,-145,181001,0,124401,0,0,0,0,124401,0,0,0,124301,0,0,124301,0,0,0,124301,0,0,124401,0,100
+0,0,100,181101,0,128201,0,0,0,0,128201,0,1,0,128101,0,0,128101,0,0,0,128101,0,0,128201,0,-105
