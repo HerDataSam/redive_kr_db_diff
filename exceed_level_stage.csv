@@ -1,2 +1,2 @@
-increase_level_limit,unlock_quest_id,exceed_stage,unlock_team_level,general_exceed_item_id
-10,11019005,1,-1,41000
+exceed_stage,general_exceed_item_id,unlock_team_level,increase_level_limit,unlock_quest_id
+1,41000,-1,10,11019005

@@ -1,3 +1,3 @@
-icon_id,chara_e_ticket_id,forced_exchange_hour,ticket_id,beginner_id,jewel_store_id,beginner_type,start_time,beginner_limit_hour,end_time
-27011,27008,240,27011,1,361,1,"2024/09/11 15:00:00",240,"2025/03/23 14:59:59"
-27011,27013,240,27011,2,361,1,"2025/03/23 15:00:00",240,"2026/03/23 14:59:59"
+forced_exchange_hour,start_time,end_time,beginner_limit_hour,chara_e_ticket_id,beginner_type,beginner_id,ticket_id,icon_id,jewel_store_id
+240,"2024/09/11 15:00:00","2025/03/23 14:59:59",240,27008,1,1,27011,27011,361
+240,"2025/03/23 15:00:00","2026/03/23 14:59:59",240,27013,1,2,27011,27011,361

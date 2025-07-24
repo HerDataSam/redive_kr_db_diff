@@ -1,4 +1,4 @@
-a/dome_dome_logo.unity3d,3075e6229837992f,common,21649,
+a/dome_dome_logo.unity3d,9f83cf36c772d27f,common,20234,
 a/dome_dome_reward_icon_25001.unity3d,bdfcc814fde0b6b4,common,2481,
 a/dome_dome_reward_icon_41000.unity3d,051c3e99cf5cab9c,common,2502,
 a/dome_dome_reward_icon_90008.unity3d,5b96dded0a09a004,common,2431,

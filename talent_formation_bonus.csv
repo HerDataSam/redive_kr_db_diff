@@ -1,6 +1,6 @@
-talent_bonus_5,talent_bonus_2,formation_bonus_id,talent_bonus_3,talent_bonus_1,talent_bonus_4
-5000,500,1,1000,0,2500
+talent_bonus_4,talent_bonus_5,formation_bonus_id,talent_bonus_1,talent_bonus_2,talent_bonus_3
+2500,5000,1,0,500,1000
 0,0,8000,0,0,0
-30000,500,8010,1000,0,10000
-40000,500,8020,1000,0,10000
-20000,500,8030,1000,0,10000
+10000,30000,8010,0,500,1000
+10000,40000,8020,0,500,1000
+10000,20000,8030,0,500,1000

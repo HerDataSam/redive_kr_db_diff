@@ -1,3 +1,3 @@
-reward_id,reward_type,mission_reward_id,reward_num,id
-91002,8,110001,30,1
-90005,2,110001,2,2
+reward_type,id,reward_id,reward_num,mission_reward_id
+8,1,91002,30,110001
+2,2,90005,2,110001

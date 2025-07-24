@@ -1,2 +1,2 @@
-quest_detail_bg_position,quest_detail_bg_id,background,que_id,limit_time,space_battle_id,result_boss_position_y,sheet_id,quest_name,space_enemy_id,clear_reward_group
-0,100585,100586,bgm_M17_02,90,1002001,0,bgm_M17,"수수께끼의 원반 습격!",800100211,810020011
+limit_time,background,quest_detail_bg_position,result_boss_position_y,space_enemy_id,quest_name,quest_detail_bg_id,que_id,space_battle_id,sheet_id,clear_reward_group
+90,100586,0,0,800100211,"수수께끼의 원반 습격!",100585,bgm_M17_02,1002001,bgm_M17,810020011

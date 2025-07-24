@@ -1,30 +1,30 @@
-icon_name,description,effect_name,battle_effect_id
-poison_damage_up,"バトル中、「毒」「猛毒」のダメージが大幅にアップする。","毒/猛毒ダメージアップ",1
-burn_damage_up,"バトル中、「火傷」のダメージが大幅にアップする。","火傷ダメージアップ",2
-curse_damage_up,"バトル中、「呪い」「呪詛」のダメージが大幅にアップする。","呪い/呪詛ダメージアップ",3
-paralysis_time_extension,"バトル中、「麻痺」の効果時間が増加する。","麻痺効果時間増加",4
-frozen_time_extension,"バトル中、「凍結」の効果時間が増加する。","凍結効果時間増加",5
-bind_time_extension,"バトル中、「束縛」の効果時間が増加する。","束縛効果時間増加",6
-stun_time_extension,"バトル中、「スタン」の効果時間が増加する。","スタン効果時間増加",7
-poison_time_extension,"バトル中、「毒」「猛毒」の効果時間が増加する。","毒/猛毒効果時間増加",8
-burn_time_extension,"バトル中、「火傷」の効果時間が増加する。","火傷効果時間増加",9
-curse_time_extension,"バトル中、「呪い」「呪詛」の効果時間が増加する。","呪い/呪詛効果時間増加",10
-temptation_time_extension,"バトル中、「誘惑」の効果時間が増加する。","誘惑効果時間増加",11
-confusion_time_extension,"バトル中、「混乱」の効果時間が増加する。","混乱効果時間増加",12
-attack_up,"バトル中、物理攻撃力が大幅にアップする。","物理攻撃力アップ",13
-magic_str_up,"バトル中、魔法攻撃力が大幅にアップする。","魔法攻撃力アップ",14
-defense_up,"バトル中、物理防御力が大幅にアップする。","物理防御力アップ",15
-magic_def_up,"バトル中、魔法防御力が大幅にアップする。","魔法防御力アップ",16
-physical_critical_up,"バトル中、物理クリティカルが大幅にアップする。","物理クリティカルアップ",17
-magic_critical_up,"バトル中、魔法クリティカルが大幅にアップする。","魔法クリティカルアップ",18
-energy_recovery_rate_up,"バトル中、ＴＰ上昇が大幅にアップする。","ＴＰ上昇アップ",19
-energy_recovery,"バトル開始時、ＴＰが特大回復する。","バトル開始時ＴＰ特大回復",20
-paralysis_hit_absolute,"バトル中、「麻痺」を必ず付与できる状態になる。","麻痺確定付与",22
-frozen_hit_absolute,"バトル中、「凍結」を必ず付与できる状態になる。","凍結確定付与",23
-bind_hit_absolute,"バトル中、「束縛」を必ず付与できる状態になる。","束縛確定付与",24
-stun_hit_absolute,"バトル中、「スタン」を必ず付与できる状態になる。","スタン確定付与",25
-poison_hit_absolute,"バトル中、「毒」「猛毒」を必ず付与できる状態になる。","毒/猛毒確定付与",26
-burn_hit_absolute,"バトル中、「火傷」を必ず付与できる状態になる。","火傷確定付与",27
-curse_hit_absolute,"バトル中、「呪い」「呪詛」を必ず付与できる状態になる。","呪い/呪詛確定付与",28
-temptation_hit_absolute,"バトル中、「誘惑」を必ず付与できる状態になる。","誘惑確定付与",29
-confusion_hit_absolute,"バトル中、「混乱」を必ず付与できる状態になる。","混乱確定付与",30
+description,battle_effect_id,icon_name,effect_name
+"전투 중 「독」「맹독」 데미지가 큰 폭으로 증가한다.",1,poison_damage_up,"독/맹독 데미지 증가"
+"전투 중 「화상」 데미지가 큰 폭으로 증가한다.",2,burn_damage_up,"화상 데미지 증가"
+"전투 중 「저주」「주술」 데미지가 큰 폭으로 증가한다.",3,curse_damage_up,"저주/주술 데미지 증가"
+"전투 중 「마비」의 효과 시간이 증가한다.",4,paralysis_time_extension,"마비 효과 시간 증가"
+"전투 중 「동결」의 효과 시간이 증가한다.",5,frozen_time_extension,"동결 효과 시간 증가"
+"전투 중 「속박」의 효과 시간이 증가한다.",6,bind_time_extension,"속박 효과 시간 증가"
+"전투 중 「스턴」의 효과 시간이 증가한다.",7,stun_time_extension,"스턴 효과 시간 증가"
+"전투 중 「독」「맹독」의 효과 시간이 증가한다.",8,poison_time_extension,"독/맹독 효과 시간 증가"
+"전투 중 「화상」의 효과 시간이 증가한다.",9,burn_time_extension,"화상 효과 시간 증가"
+"전투 중 「저주」「주술」의 효과 시간이 증가한다.",10,curse_time_extension,"저주/주술 효과 시간 증가"
+"전투 중 「유혹」의 효과 시간이 증가한다.",11,temptation_time_extension,"유혹 효과 시간 증가"
+"전투 중 「혼란」의 효과 시간이 증가한다.",12,confusion_time_extension,"혼란 효과 시간 증가"
+"전투 중 물리 공격력이 큰 폭으로 증가한다.",13,attack_up,"물리 공격력 증가"
+"전투 중 마법 공격력이 큰 폭으로 증가한다.",14,magic_str_up,"마법 공격력 증가"
+"전투 중 물리 방어력이 큰 폭으로 증가한다.",15,defense_up,"물리 방어력 증가"
+"전투 중 마법 방어력이 큰 폭으로 증가한다.",16,magic_def_up,"마법 방어력 증가"
+"전투 중 물리 크리티컬이 큰 폭으로 증가한다.",17,physical_critical_up,"물리 크리티컬 증가"
+"전투 중 마법 크리티컬이 큰 폭으로 증가한다.",18,magic_critical_up,"마법 크리티컬 증가"
+"전투 중 TP 상승이 큰 폭으로 증가한다.",19,energy_recovery_rate_up,"TP 상승 증가"
+"전투 시작 시 TP를 (특대) 회복한다.",20,energy_recovery,"전투 시작 시 TP (특대) 회복"
+"전투 중 「마비」를 반드시 부여할 수 있는 상태가 된다.",22,paralysis_hit_absolute,"마비 확정 부여"
+"전투 중 「동결」을 반드시 부여할 수 있는 상태가 된다.",23,frozen_hit_absolute,"동결 확정 부여"
+"전투 중 「속박」을 반드시 부여할 수 있는 상태가 된다.",24,bind_hit_absolute,"속박 확정 부여"
+"전투 중 「스턴」을 반드시 부여할 수 있는 상태가 된다.",25,stun_hit_absolute,"스턴 확정 부여"
+"전투 중 「독」「맹독」을 반드시 부여할 수 있는 상태가 된다.",26,poison_hit_absolute,"독/맹독 확정 부여"
+"전투 중 「화상」을 반드시 부여할 수 있는 상태가 된다.",27,burn_hit_absolute,"화상 확정 부여"
+"전투 중 「저주」「주술」을 반드시 부여할 수 있는 상태가 된다.",28,curse_hit_absolute,"저주/주술 확정 부여"
+"전투 중 「유혹」을 반드시 부여할 수 있는 상태가 된다.",29,temptation_hit_absolute,"유혹 확정 부여"
+"전투 중 「혼란」을 반드시 부여할 수 있는 상태가 된다.",30,confusion_hit_absolute,"혼란 확정 부여"

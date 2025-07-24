@@ -1,2 +1,2 @@
-appearance_chara_odds,bar_split,wait_time,appearance,last_time,appearance_pattern,id
-3,4,500,1,15,0,1
+bar_split,wait_time,appearance,appearance_pattern,last_time,appearance_chara_odds,id
+4,500,1,0,15,3,1
