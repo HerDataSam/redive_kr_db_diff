@@ -1,7 +1,7 @@
-buy_count_from,id,count,buy_count_to,price_group_id
-1,1,1,20,1
-21,2,2,40,1
-41,3,3,60,1
-61,4,4,80,1
-81,5,5,-1,1
-1,6,20,-1,2
+buy_count_to,price_group_id,buy_count_from,id,count
+20,1,1,1,1
+40,1,21,2,2
+60,1,41,3,3
+80,1,61,4,4
+-1,1,81,5,5
+-1,2,1,6,20

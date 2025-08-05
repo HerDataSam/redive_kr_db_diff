@@ -1,2 +1,2 @@
-close_story_condition_id,start_time,close_time,name,teaser_time,count_start_time,close_story_id,end_time,story_id,top_bg,sre_id,top_bgm
-9000003,"2024/01/15 16:00:00","2024/02/08 15:59:59","종염의 엘리시온","2024/01/14 15:00:00","2024/01/21 15:59:59",2116006,"2024/01/22 15:59:59",2000002,"",3,bgm_M643
+start_time,close_story_condition_id,close_time,count_start_time,name,top_bgm,teaser_time,top_bg,close_story_id,story_id,sre_id,end_time
+"2024/01/15 16:00:00",9000003,"2024/02/08 15:59:59","2024/01/21 15:59:59","종염의 엘리시온",bgm_M643,"2024/01/14 15:00:00","",2116006,2000002,3,"2024/01/22 15:59:59"

@@ -1,6 +1,6 @@
 a/atlasngui_atlasabnormalstate.unity3d,595bb24fd9c4e804,tutorial0,245992,
 a/atlasngui_atlasabyss.unity3d,b8bc96f567ad27ad,common,216930,
-a/atlasngui_atlasabyssbanner.unity3d,1ba954f2a5762bde,common,44813,
+a/atlasngui_atlasabyssbanner.unity3d,9053d599709fefce,common,44795,
 a/atlasngui_atlasabyssbossskip.unity3d,70c565c00ab53ced,common,130051,
 a/atlasngui_atlasadv.unity3d,b33372b2579e4d91,tutorial0,510019,
 a/atlasngui_atlasalbumglossary.unity3d,4c1db440abe32bb6,common,6459,

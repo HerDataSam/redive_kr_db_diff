@@ -1,7 +1,7 @@
-name,que_id,view_mode,course_id,tutorial_adv_id,sheet_id,map_type,start_area_id,map_id,end_area_id
-"아스트라이아 대륙",bgm_M61_00,0,1,0,bgm_M61,101,11001,1,11017
-"던전 맵",bgm_M61,0,2,0,bgm_M61,0,4001,1,4004
-"이벤트 맵","",0,3,0,"",0,7001,1,7008
-"엘피스 섬",bgm_M179_00,0,4,0,bgm_M179,102,11018,2,11062
-"지오\n테오고니아",bgm_MC001,1,5,322,bgm_MC001,103,11063,3,11066
-"지오\n게헤나",bgm_MC079,1,6,324,bgm_MC079,104,11067,4,11072
+name,map_type,course_id,end_area_id,que_id,tutorial_adv_id,view_mode,start_area_id,map_id,sheet_id
+"아스트라이아 대륙",101,1,11017,bgm_M61_00,0,0,11001,1,bgm_M61
+"던전 맵",0,2,4004,bgm_M61,0,0,4001,1,bgm_M61
+"이벤트 맵",0,3,7008,"",0,0,7001,1,""
+"엘피스 섬",102,4,11062,bgm_M179_00,0,0,11018,2,bgm_M179
+"지오\n테오고니아",103,5,11066,bgm_MC001,322,1,11063,3,bgm_MC001
+"지오\n게헤나",104,6,11072,bgm_MC079,324,1,11067,4,bgm_MC079

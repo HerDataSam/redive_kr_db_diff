@@ -201,7 +201,7 @@ a/howtoplay_tutorialimage_tower_quest_01.unity3d,8ba6f3645fc9fda0,tutorial2,2028
 a/howtoplay_tutorialimage_tower_quest_02.unity3d,bc9c6480275b86f2,tutorial2,197594,
 a/howtoplay_tutorialimage_tower_quest_03.unity3d,b14a0c18d98142c1,tutorial2,218843,
 a/howtoplay_tutorialimage_tower_quest_04.unity3d,7be30c64d33679db,tutorial2,208994,
-a/howtoplay_tutorialimage_tpr_01.unity3d,b3fbbc38296c8a46,tutorial2,181518,
+a/howtoplay_tutorialimage_tpr_01.unity3d,158159b39e4094be,tutorial2,179334,
 a/howtoplay_tutorialimage_tpr_02.unity3d,d181153619f2eade,tutorial2,188012,
 a/howtoplay_tutorialimage_trainingquest_01.unity3d,9e90f7883ed2e6cd,tutorial2,206145,
 a/howtoplay_tutorialimage_travel_01.unity3d,684b2ce1bef40e65,tutorial2,219223,

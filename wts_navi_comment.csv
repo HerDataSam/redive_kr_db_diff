@@ -1,3 +1,3 @@
-original_event_id,voice_id,change_face_time,change_face_type,pos_x,where_type,character_id,pos_y,comment_id,face_type
-10122,101,8.63,0,-360.0,58,126601,0.0,58001,1
-10122,102,4.37,0,-360.0,58,126601,0.0,58002,1
+change_face_time,character_id,change_face_type,voice_id,comment_id,where_type,pos_x,face_type,pos_y,original_event_id
+8.63,126601,0,101,58001,58,-360.0,1,0.0,10122
+4.37,126601,0,102,58002,58,-360.0,1,0.0,10122

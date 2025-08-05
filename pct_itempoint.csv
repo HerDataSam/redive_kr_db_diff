@@ -1,4 +1,4 @@
-pct_point_coefficient,id,item_id
-1000,1,60103
-1100,2,60104
-1200,3,60105
+id,pct_point_coefficient,item_id
+1,1000,60103
+2,1100,60104
+3,1200,60105
