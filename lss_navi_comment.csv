@@ -1,4 +1,4 @@
-original_event_id,voice_id,pos_x,change_face_time,character_id,pos_y,comment_id,change_face_type,face_type,where_type
-10150,101,-320.0,7.7,131701,0.0,58001,2,1,58
-10150,201,-320.0,3.73,118602,0.0,58002,1,2,58
-10150,301,-320.0,6.12,131802,0.0,58003,1,2,58
+change_face_type,where_type,pos_y,original_event_id,character_id,face_type,voice_id,pos_x,change_face_time,comment_id
+2,58,0.0,10150,131701,1,101,-320.0,7.7,58001
+1,58,0.0,10150,118602,2,201,-320.0,3.73,58002
+1,58,0.0,10150,131802,2,301,-320.0,6.12,58003

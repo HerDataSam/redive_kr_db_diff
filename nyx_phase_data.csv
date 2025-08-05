@@ -1,4 +1,4 @@
-story_phase,condition_quest_boss,condition_quest_id,phase_title
-1,0,20023105,"특별강좌 프레젠테이션 리포트"
-2,0,20023111,"메르쿠리우스 재단 활동 일지"
-3,2002301,20023115,"유니의 메모장"
+phase_title,condition_quest_id,story_phase,condition_quest_boss
+"특별강좌 프레젠테이션 리포트",20023105,1,0
+"메르쿠리우스 재단 활동 일지",20023111,2,0
+"유니의 메모장",20023115,3,2002301

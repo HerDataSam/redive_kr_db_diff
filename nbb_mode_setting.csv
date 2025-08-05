@@ -1,4 +1,4 @@
-mode_type,soldier_init_num,length,support_ratio
-1,15,19,100
-2,10,34,60
-3,5,0,50
+support_ratio,mode_type,soldier_init_num,length
+100,1,15,19
+60,2,10,34
+50,3,5,0
