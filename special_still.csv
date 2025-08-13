@@ -1,3 +1,3 @@
-still_id,value,back_momory_type,type
-504660101,0,0,1
-509260101,0,0,2
+back_momory_type,value,still_id,type
+0,0,504660101,1
+0,0,509260101,2

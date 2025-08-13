@@ -1,2 +1,2 @@
-dice_odds,bgm_que_id,unit_id_3,bgm_sheet_id,rival_id,unit_id_2,unit_id_1,name
-400001,bgm_MC104,130201,bgm_MC104,10001,130101,130001,"밴디 샤크호"
+bgm_sheet_id,name,dice_odds,bgm_que_id,unit_id_2,unit_id_3,rival_id,unit_id_1
+bgm_MC104,"밴디 샤크호",400001,bgm_MC104,130101,130201,10001,130001

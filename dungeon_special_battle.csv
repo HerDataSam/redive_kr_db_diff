@@ -1,4 +1,4 @@
-mode,action_start_second,detail_boss_motion,parts_hp_save_flag,hp_gauge_color_flag,special_battle_id,trigger_hp,detail_boss_bg_height,quest_id,appear_time,detail_boss_bg_size,wave_group_id,start_idle_trigger,purpose_type
-1,5.0,0,1,1,101,37,70.0,31008005,0.0,1.1,501010081,0,1
-2,5.0,0,0,1,102,0,0.0,31008005,5.0,1.0,501010082,600,2
-3,5.0,0,0,1,103,0,0.0,31008005,0.0,1.1,501010083,0,1
+start_idle_trigger,purpose_type,action_start_second,quest_id,detail_boss_bg_size,detail_boss_bg_height,special_battle_id,detail_boss_motion,appear_time,hp_gauge_color_flag,wave_group_id,trigger_hp,mode,parts_hp_save_flag
+0,1,5.0,31008005,1.1,70.0,101,0,0.0,1,501010081,37,1,1
+600,2,5.0,31008005,1.0,0.0,102,0,5.0,1,501010082,0,2,0
+0,1,5.0,31008005,1.1,0.0,103,0,0.0,1,501010083,0,3,0
