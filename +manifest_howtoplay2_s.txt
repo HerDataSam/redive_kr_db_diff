@@ -94,7 +94,7 @@ a/howtoplay_tutorialimage_kaisersub_03.unity3d,037ed44e3ec89812,tutorial2,221503
 a/howtoplay_tutorialimage_kaisersub_04.unity3d,bcdd8bafcbe57ab7,tutorial2,216456,
 a/howtoplay_tutorialimage_kaisersub_05.unity3d,622fabffeeac5580,tutorial2,215758,
 a/howtoplay_tutorialimage_kaisersub_06.unity3d,544d93acc869f457,tutorial2,219604,
-a/howtoplay_tutorialimage_lss_01.unity3d,c96ea97e98466494,tutorial2,220372,
+a/howtoplay_tutorialimage_lss_01.unity3d,8304ef895b8456ca,tutorial2,220108,
 a/howtoplay_tutorialimage_main_quest_auto_progress_01.unity3d,22be2dc32e341b97,tutorial2,210382,
 a/howtoplay_tutorialimage_main_quest_auto_progress_02.unity3d,6ce2c2a50d0e987c,tutorial2,194454,
 a/howtoplay_tutorialimage_manabox_adjusted_01.unity3d,5758bc07d3c09dfd,tutorial2,206045,

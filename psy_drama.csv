@@ -1,12 +1,12 @@
-condition_psy_product_4,condition_psy_product_5,condition_total_eat,release_psy_product_id_2,condition_chara_type,release_psy_product_id_3,release_psy_product_id_4,title,drama_id,condition_psy_product_3,condition_psy_product_1,release_psy_product_id_5,condition_psy_product_2,release_psy_product_id_1,condition_time
-0,0,0,0,0,0,0,"미야코’s 키친",1,0,0,0,0,0,0
-0,0,48,0,0,0,0,"푸딩으로 만들어버리는 거야",2,0,0,0,0,102,0
-0,0,96,0,0,0,0,"유령보다도 무서운 거?",3,0,0,0,0,152,0
-0,0,144,0,0,0,0,"연회는 푸딩 만들기와 함께",4,0,0,0,0,142,0
-0,0,168,0,0,0,0,"사랑은 푸딩을 위해",5,0,0,0,0,127,0
-0,0,192,0,0,0,0,"조금 성장?",6,0,0,0,0,107,0
-0,0,240,0,0,0,0,"뀨뀨~!",7,0,0,0,0,0,0
-0,0,0,154,20,155,0,"귀여운 부하 3명",8,0,0,0,0,153,0
-0,0,0,157,40,0,0,"특이한 취향인 거야",9,0,0,0,0,150,0
-0,0,0,161,50,0,0,"넣지 마, 위험한 거야",10,0,0,0,0,125,0
-0,0,0,135,60,0,0,"레시피인 거야?",11,0,0,0,0,116,0
+condition_psy_product_4,condition_psy_product_1,drama_id,condition_psy_product_3,release_psy_product_id_2,release_psy_product_id_5,condition_total_eat,condition_psy_product_2,condition_psy_product_5,release_psy_product_id_4,title,release_psy_product_id_1,condition_chara_type,release_psy_product_id_3,condition_time
+0,0,1,0,0,0,0,0,0,0,"미야코’s 키친",0,0,0,0
+0,0,2,0,0,0,48,0,0,0,"푸딩으로 만들어버리는 거야",102,0,0,0
+0,0,3,0,0,0,96,0,0,0,"유령보다도 무서운 거?",152,0,0,0
+0,0,4,0,0,0,144,0,0,0,"연회는 푸딩 만들기와 함께",142,0,0,0
+0,0,5,0,0,0,168,0,0,0,"사랑은 푸딩을 위해",127,0,0,0
+0,0,6,0,0,0,192,0,0,0,"조금 성장?",107,0,0,0
+0,0,7,0,0,0,240,0,0,0,"뀨뀨~!",0,0,0,0
+0,0,8,0,154,0,0,0,0,0,"귀여운 부하 3명",153,20,155,0
+0,0,9,0,157,0,0,0,0,0,"특이한 취향인 거야",150,40,0,0
+0,0,10,0,161,0,0,0,0,0,"넣지 마, 위험한 거야",125,50,0,0
+0,0,11,0,135,0,0,0,0,0,"레시피인 거야?",116,60,0,0
