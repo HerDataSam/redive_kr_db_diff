@@ -1,2 +1,2 @@
-close_story_id,teaser_time,id,end_time,top_bg,close_story_condition_id,start_time,story_id,count_start_time,top_bgm,close_time
-2109008,"2022/09/14 15:00:00",1,"2022/09/23 14:59:59","",2109007,"2022/09/16 15:00:00",2109006,"2022/09/22 14:59:59",bgm_M501,"2022/10/10 14:59:59"
+close_story_id,close_story_condition_id,count_start_time,story_id,top_bgm,close_time,start_time,id,teaser_time,top_bg,end_time
+2109008,2109007,"2022/09/22 14:59:59",2109006,bgm_M501,"2022/10/10 14:59:59","2022/09/16 15:00:00",1,"2022/09/14 15:00:00","","2022/09/23 14:59:59"

@@ -1,4 +1,4 @@
-unique_equip_rank_2,unique_equip_strength_point_2,unique_equip_rank_1,growth_id,unique_equip_strength_point_1
-0,-1,17,10001,39990
-0,-1,20,10002,47490
-0,-1,22,10003,52490
+unique_equip_strength_point_2,growth_id,unique_equip_rank_2,unique_equip_rank_1,unique_equip_strength_point_1
+-1,10001,0,17,39990
+-1,10002,0,20,47490
+-1,10003,0,22,52490

@@ -1,2 +1,2 @@
-story_id_to,button_sprite_name,release_level,label_sprite_name,story_id_from,start_time,bulk_skip_id,balloon_sprite_name
-2116099,common_btn_2_16_skip,50,common_label_release_2_16_skip,2001000,"2024/03/14 15:00:00",1,balloon_story_2nd_16_skip
+balloon_sprite_name,story_id_to,story_id_from,button_sprite_name,bulk_skip_id,start_time,release_level,label_sprite_name
+balloon_story_2nd_16_skip,2116099,2001000,common_btn_2_16_skip,1,"2024/03/14 15:00:00",50,common_label_release_2_16_skip

@@ -1,2 +1,2 @@
-end_time,count_start_time,top_bgm,id,story_id,teaser_time,close_story_condition_id,top_bg,close_time,close_story_id,after_bg,after_bgm,start_time
-"2021/01/28 14:59:59","2021/01/27 14:59:59",bgm_M300,1,2015006,"2021/01/16 15:00:00",2015008,"","2021/02/04 14:59:59",2015009,"",bgm_M260,"2021/01/20 15:00:00"
+count_start_time,close_story_condition_id,id,top_bgm,close_time,top_bg,close_story_id,after_bg,start_time,story_id,after_bgm,teaser_time,end_time
+"2021/01/27 14:59:59",2015008,1,bgm_M300,"2021/02/04 14:59:59","",2015009,"","2021/01/20 15:00:00",2015006,bgm_M260,"2021/01/16 15:00:00","2021/01/28 14:59:59"
