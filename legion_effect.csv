@@ -1,3 +1,3 @@
-bonus_5,bonus_1,bonus_4,bonus_3,bonus_2,effect_id
-30,30,30,30,30,100
-15,15,15,15,15,200
+effect_id,bonus_1,bonus_5,bonus_4,bonus_2,bonus_3
+100,30,30,30,30,30
+200,15,15,15,15,15
