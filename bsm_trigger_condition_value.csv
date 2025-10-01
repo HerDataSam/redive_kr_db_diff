@@ -1,0 +1,5 @@
+threshold,compare_type,target_value_type,condition_id
+50,1,2,310000101
+-50,2,2,310000102
+50,2,1,311010101
+70,2,1,311020101

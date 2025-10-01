@@ -1,2 +1,2 @@
-help_use_count_veryhard,help_use_count_normal,help_use_count_hard,id,lottery_rate
-2,4,3,1,0.15
+help_use_count_hard,lottery_rate,help_use_count_normal,id,help_use_count_veryhard
+3,0.15,4,1,2

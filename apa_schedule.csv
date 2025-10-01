@@ -1,2 +1,2 @@
-op_story_id,close_time,apa_id,ed_story_id,url_1,start_time,url_2,count_start_time,url_3,end_time
-1003,"2025/04/01 23:59:59",1,0,http://karyl-yabaival.priconnekr.com/,"2025/04/01 0:00:00",http://karyl-yabaival.priconnekr.com/,"2025/04/01 23:59:59",http://karyl-yabaival.priconnekr.com/,"2025/04/01 23:59:59"
+close_time,apa_id,count_start_time,start_time,op_story_id,ed_story_id,url_1,url_3,url_2,end_time
+"2025/04/01 23:59:59",1,"2025/04/01 23:59:59","2025/04/01 0:00:00",1003,0,http://karyl-yabaival.priconnekr.com/,http://karyl-yabaival.priconnekr.com/,http://karyl-yabaival.priconnekr.com/,"2025/04/01 23:59:59"

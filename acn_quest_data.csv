@@ -1,6 +1,6 @@
-result_boss_position_y_3,name,lane_priority_3,limit_time,enemy_position_offset_x_2,deck_number,lane_priority_2,lane_priority_1,enemy_size_3,enemy_size_2,condition_mission_id,enemy_position_offset_x_3,result_boss_position_y_1,result_boss_position_y_2,bg_position,gauge_mission_id,aura_size_1,background,enemy_position_offset_y_2,aura_size_3,quest_id,next_quest_id,enemy_position_offset_y_3,wave_bgm,enemy_position_offset_x_1,restriction_group_id,aura_size_2,enemy_position_offset_y_1,enemy_size_1,ae0dd1ec7dc20598557b60b90aac0e72678980afb6cf1df6d9d4c1b97b0feac7
-0.0,"보석 거미 무리",0,90,0,91,0,0,0.0,0.0,0,0,0.0,0.0,-100,0,0.0,103571,0,0.0,1001,1002,0,bgm_MC179A,5,1001,0.0,177,1.0,"2025/09/16 15:00:00"
-0.0,"밴디 시스터즈",0,90,0,92,0,0,1.2,1.2,32000110,0,0.0,0.0,-100,32000103,0.8,103574,0,0.8,1002,1003,0,bgm_MC179B,0,1001,0.8,0,1.2,"2025/09/16 15:00:00"
-0.0,"프레이야",0,90,0,93,0,0,0.0,0.0,32000103,0,0.0,0.0,-100,32000106,0.0,103571,0,0.0,1003,1004,0,bgm_MC180,0,1001,0.0,0,1.2,"2025/09/16 15:00:00"
-0.0,"아라크네",0,90,0,94,0,0,0.0,0.0,32000106,0,0.0,0.0,-100,32000109,0.0,103573,0,0.0,1004,1005,0,bgm_MC181A,0,1001,0.0,0,1.2,"2025/09/16 15:00:00"
-0.0,"육흉・마거미 아라크네",0,90,0,95,0,0,0.0,0.0,32000109,0,300.0,0.0,-100,0,0.0,103572,0,0.0,1005,0,0,"",0,1001,0.0,0,1.2,"2025/09/21 15:00:00"
+enemy_size_1,aura_size_3,enemy_size_2,deck_number,enemy_position_offset_x_3,aura_size_2,bg_position,lane_priority_1,enemy_position_offset_y_3,enemy_position_offset_x_1,result_boss_position_y_2,lane_priority_2,enemy_position_offset_y_2,limit_time,condition_mission_id,result_boss_position_y_1,gauge_mission_id,result_boss_position_y_3,enemy_position_offset_y_1,6ad9b17d8b59db8570238d08fe6a2ff40c238279d7b9f85cd32e5977c3e010b6,quest_id,next_quest_id,wave_bgm,aura_size_1,lane_priority_3,name,enemy_size_3,restriction_group_id,background,enemy_position_offset_x_2
+1.0,0.0,0.0,91,0,0.0,-100,0,0,5,0.0,0,0,90,0,0.0,0,0.0,177,"2025/09/16 15:00:00",1001,1002,bgm_MC179A,0.0,0,"보석 거미 무리",0.0,1001,103571,0
+1.2,0.8,1.2,92,0,0.8,-100,0,0,0,0.0,0,0,90,32000110,0.0,32000103,0.0,0,"2025/09/16 15:00:00",1002,1003,bgm_MC179B,0.8,0,"밴디 시스터즈",1.2,1001,103574,0
+1.2,0.0,0.0,93,0,0.0,-100,0,0,0,0.0,0,0,90,32000103,0.0,32000106,0.0,0,"2025/09/16 15:00:00",1003,1004,bgm_MC180,0.0,0,"프레이야",0.0,1001,103571,0
+1.2,0.0,0.0,94,0,0.0,-100,0,0,0,0.0,0,0,90,32000106,0.0,32000109,0.0,0,"2025/09/16 15:00:00",1004,1005,bgm_MC181A,0.0,0,"아라크네",0.0,1001,103573,0
+1.2,0.0,0.0,95,0,0.0,-100,0,0,0,0.0,0,0,90,32000109,300.0,0,0.0,0,"2025/09/21 15:00:00",1005,0,"",0.0,0,"육흉・마거미 아라크네",0.0,1001,103572,0
