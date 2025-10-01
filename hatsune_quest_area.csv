@@ -1,4 +1,4 @@
-tutorial_param_1,area_id,scroll_height,map_type,658fca5103ef8322eada6b9feff9c159fd6c92306c5e6aeabf71def78f01e06a,open_tutorial_id,sheet_id,b579d0851fc9d1983b5691165e77f6643c3197172230d404770826abe8934d63,tutorial_param_2,additional_effect,que_id,event_id,area_name,scroll_width,map_id,area_disp
+tutorial_param_1,area_id,scroll_height,map_type,start_time,open_tutorial_id,sheet_id,end_time,tutorial_param_2,additional_effect,que_id,event_id,area_name,scroll_width,map_id,area_disp
 0,10001101,0,201,"2019/05/01 15:00:00",0,bgm_M32,"2019/05/26 14:59:59",0,0,bgm_M32,10001,"타르굼 지방",0,0,1
 0,10001201,0,201,"2019/05/01 15:00:00",0,bgm_M32,"2019/05/26 14:59:59",0,0,bgm_M32,10001,"타르굼 지방",0,0,1
 0,10002101,0,201,"2019/05/29 15:00:00",0,bgm_M98,"2019/06/23 14:59:59",0,0,bgm_M98_2,10002,"마시나 지방",0,0,1

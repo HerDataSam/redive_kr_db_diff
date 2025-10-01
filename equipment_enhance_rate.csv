@@ -1,4 +1,4 @@
-life_steal,hp,physical_critical,magic_str,magic_critical,def,magic_penetrate,energy_recovery_rate,1f4b4ae3df130ecb08df4fb8952349d8f95a2d53c6da21bbf6b59ccb04f7dbed,dodge,wave_hp_recovery,energy_reduce_rate,equipment_id,bccfe0ea5fcb0dd9566f501103659682289e2a4ad3737487caebfbdf8ea3db6f,hp_recovery_rate,atk,accuracy,magic_def,432743981363221839b04b0413cbd903c920ac6179d88191eb943f8225dcbcb7,physical_penetrate,wave_energy_recovery
+life_steal,hp,physical_critical,magic_str,magic_critical,def,magic_penetrate,energy_recovery_rate,promotion_level,dodge,wave_hp_recovery,energy_reduce_rate,equipment_id,description,hp_recovery_rate,atk,accuracy,magic_def,equipment_name,physical_penetrate,wave_energy_recovery
 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,101011,"검",0.0,0.0,0.0,0.0,"아이언 블레이드",0.0,0.0
 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,101071,"단검",0.0,0.0,0.0,0.0,"킬러 펜슬",0.0,0.0
 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,101101,"너클",0.0,0.0,0.0,0.0,"우드 그립",0.0,0.0

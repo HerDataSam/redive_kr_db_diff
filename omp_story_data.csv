@@ -1,4 +1,4 @@
-sub_title,omp_story_id,story_seq,reward_id,reward_count,event_id,is_readable_on_result,12fa46ad41569a29f390b57a6177bd3e5499b49824e0a5aa5ae75587d3764644,reward_type,08c3e8e2b7058e7b8080ee67679f627538b41c6205f952906109ddf318646e12
+sub_title,omp_story_id,story_seq,reward_id,reward_count,event_id,is_readable_on_result,condition_boss_id,reward_type,condition_quest_id
 "우즈키와 린의 메모리",7001,1,0,0,10062,0,0,0,10062103
 "뉴 제네레이션즈의 메모리",7002,2,0,0,10062,0,0,0,10062107
 "우즈키와 미오의 메모리",7003,4,0,0,10062,0,0,0,10062107

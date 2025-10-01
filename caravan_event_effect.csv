@@ -1,4 +1,4 @@
-a4664b725f8e82b091ec00662b018329e79b590abc11df7c8ab8e16cb1f7f4c7,effect_times,effect_type,category,effect_value,event_id,effect_turn
+description,effect_times,effect_type,category,effect_value,event_id,effect_turn
 "요리 입수 이벤트",0,1,0,3,1,0
 "주사위 입수 이벤트1",0,2,0,1,2,0
 "주사위 입수 이벤트2",0,2,0,2,3,0

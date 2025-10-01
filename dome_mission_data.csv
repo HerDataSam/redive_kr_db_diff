@@ -1,4 +1,4 @@
-description,mission_id,condition_num,mission_condition,schedule_id,condition_value_1,disp_icon_on_bar,mission_reward_id,disp_group
+description,mission_id,condition_num,mission_condition,schedule_id,condition_value_1,unknown_8,mission_reward_id,disp_group
 "★을 누적 3개 획득하자",100000001,3,4101,1001,3,0,100101,1
 "★을 누적 6개 획득하자",100000002,6,4101,1001,6,0,100102,2
 "★을 누적 9개 획득하자",100000003,9,4101,1001,9,1,100103,3

@@ -1,4 +1,4 @@
-1c14d18c049040a22dce5edf0376a9587e144a855baef9f1ad4513e41d8cdbc5,dodge,magic_str,energy_reduce_rate,energy_recovery_rate,physical_critical,def,wave_energy_recovery,hp,equipment_id,magic_def,magic_penetrate,life_steal,physical_penetrate,wave_hp_recovery,1e15822ae0b2db5bf5a14f84478da78816ae79f0150c36e645d224c4799ba38e,accuracy,608d6b9e84037f2fe9054752313b145f060eadc8380f8da7e52e434884ca66f1,hp_recovery_rate,magic_critical,atk
+promotion_level,dodge,magic_str,energy_reduce_rate,energy_recovery_rate,physical_critical,def,wave_energy_recovery,hp,equipment_id,magic_def,magic_penetrate,life_steal,physical_penetrate,wave_hp_recovery,equipment_name,accuracy,description,hp_recovery_rate,magic_critical,atk
 98,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,130011,0.0,0.0,0.0,0.0,0.0,"냥피언 벨트",0.0,"히요리가 착용하는 벨트. 늠름한 짐승의 위엄이 서린 버클은 전투 본능을 북돋고, 주먹에 더 큰 힘을 실어준다.",0.0,0.0,4.7
 98,0.0,2.3,0.0,0.0,0.0,0.25,0.0,0.0,130021,0.25,0.0,0.0,0.0,0.0,"블로섬 위시",0.0,"유이가 착용한 카튜샤. 귀엽게 달린 꽃 레이스와 장식은 동료를 지키기 위한 치유의 힘을 증가시킨다.",0.25,0.0,0.0
 98,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,130031,0.0,0.0,0.0,0.0,0.0,"게일 글러브",0.0,"레이가 애용하고 있는 글로브. 공격과 수비를 함께 하는 글로브의 강력한 찌르기는 앞을 가로막는 어떠한 적도 꿰뚫는다.",0.0,0.0,4.75

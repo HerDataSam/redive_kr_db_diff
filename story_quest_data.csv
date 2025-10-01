@@ -1,4 +1,4 @@
-wave_bgm_que_id_3,c06737125e2bc4cf52af8145de245dfe0cabe428a93546ff00bd116fdc19b251,wave_bgm_que_id_1,story_id,background_1,guest_unit_1,970ae046989f794d4c9c9b174f1e226ab9a2d58085256f5a768fe95d547c7f9f,wave_bgm_que_id_2,guest_unit_5,wave_bgm_sheet_id_2,limit_time,guest_unit_2,guest_unit_4,d0b52f42d816539f90b779624d32b6c47e004f358c63ca759c156a3a316ece86,guest_unit_3,story_quest_id,quest_name,wave_bgm_sheet_id_1,wave_bgm_sheet_id_3,background_3,background_2
+wave_bgm_que_id_3,wave_group_id_3,wave_bgm_que_id_1,story_id,background_1,guest_unit_1,wave_group_id_2,wave_bgm_que_id_2,guest_unit_5,wave_bgm_sheet_id_2,limit_time,guest_unit_2,guest_unit_4,wave_group_id_1,guest_unit_3,story_quest_id,quest_name,wave_bgm_sheet_id_1,wave_bgm_sheet_id_3,background_3,background_2
 0,0,0,2000001,100182,901000102,0,0,0,0,90,901000103,901000106,512000011,901000105,51200001,"마지막 전투",0,0,0,0
 0,0,bgm_M06,2000002,100021,901000201,512000022,bgm_M06,0,bgm_M06,90,901000202,0,512000021,901000104,51200002,"튜토리얼 전투",bgm_M06,0,0,100022
 0,0,bgm_M06,2000006,100021,901000201,512000022,bgm_M06,0,bgm_M06,90,901000202,0,512000021,901000104,51200006,"튜토리얼 전투",bgm_M06,0,0,100022

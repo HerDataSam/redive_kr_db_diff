@@ -1,4 +1,4 @@
-item_record_id,id,repurchase_day,after_text,receive_text,gift_message_id,group_id,mission_id,system_id_1,category_icon,add_num_1,reward_rate_1,disp_order,814aabc6c9104df83e5c219cf20f0c1d4a432973a04dbf641d5f957f0f62774b,pack_type,term
+item_record_id,id,repurchase_day,after_text,receive_text,gift_message_id,group_id,mission_id,system_id_1,category_icon,add_num_1,reward_rate_1,disp_order,condition_flg,pack_type,term
 1,9,0,"데일리 쥬얼 팩 미수령 쥬얼","데일리 쥬얼 팩 {1}일째 아이템 세트",0,0,17001001,104,403,0,2000,1,0,2,30
 0,15,3,"","",0,1,0,103,0,3,0,0,1,1,7
 86,17,0,"","",8918,0,0,0,0,0,0,22,0,6,0
