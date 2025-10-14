@@ -1,4 +1,4 @@
-story_id_mode_start,wave_group_id,hp_gauge_color_flag,story_end_block_id,purpose_type,sre_boss_id,mode,story_start_second,trigger_hp,story_id_mode_end,purpose_count,story_end_after_block_id,unnecessary_defeat_chara,story_start_after_block_id,wave_bgm_block_id,wave_bgm_que,story_start_block_id,action_start_second
-9006525,803100222,1,-1,1,3008,1,1.5,83,0,0,-1,0,4,-1,bgm_M646_Mode1,1,5.0
-9006526,803100223,1,-1,1,3008,2,1.5,66,0,0,-1,0,2,-1,bgm_M646_Mode2,1,5.0
-9006527,803100224,1,-1,1,3008,3,1.5,0,9000003,0,-1,0,-1,-1,bgm_M646_Mode3,-1,5.0
+story_id_mode_end,trigger_hp,wave_bgm_que,story_end_after_block_id,wave_bgm_block_id,story_start_after_block_id,sre_boss_id,mode,story_start_block_id,story_end_block_id,action_start_second,unnecessary_defeat_chara,purpose_type,story_start_second,story_id_mode_start,purpose_count,wave_group_id,hp_gauge_color_flag
+0,83,bgm_M646_Mode1,-1,-1,4,3008,1,1,-1,5.0,0,1,1.5,9006525,0,803100222,1
+0,66,bgm_M646_Mode2,-1,-1,2,3008,2,1,-1,5.0,0,1,1.5,9006526,0,803100223,1
+9000003,0,bgm_M646_Mode3,-1,-1,-1,3008,3,-1,-1,5.0,0,1,1.5,9006527,0,803100224,1

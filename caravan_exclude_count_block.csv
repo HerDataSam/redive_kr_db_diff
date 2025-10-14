@@ -1,5 +1,5 @@
-exclude_group_id,block_type_2,block_type_3,block_type_1
-1,0,0,2
-2,0,0,7
-3,7,0,2
-4,0,0,4
+block_type_2,block_type_1,exclude_group_id,block_type_3
+0,2,1,0
+0,7,2,0
+7,2,3,0
+0,4,4,0

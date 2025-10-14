@@ -1,3 +1,3 @@
-where_type,change_face_time,character_id,change_face_type,pos_y,original_event_id,comment_id,voice_id,face_type,pos_x
-58,8.63,126601,0,0.0,10122,58001,101,1,-360.0
-58,4.37,126601,0,0.0,10122,58002,102,1,-360.0
+comment_id,character_id,change_face_time,voice_id,face_type,where_type,pos_x,original_event_id,pos_y,change_face_type
+58001,126601,8.63,101,1,58,-360.0,10122,0.0,0
+58002,126601,4.37,102,1,58,-360.0,10122,0.0,0

@@ -1,6 +1,6 @@
-evaluation_id,meet_width,fever_point,evaluation_point
-1,50,4,150
-2,100,2,75
-3,150,1,30
-4,700,0,0
-5,200,0,0
+fever_point,evaluation_id,meet_width,evaluation_point
+4,1,50,150
+2,2,100,75
+1,3,150,30
+0,4,700,0
+0,5,200,0

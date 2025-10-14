@@ -1,4 +1,4 @@
-condition_description,icon_type,emblem_id,visible_type
-"",1003,11001348,2
-"",1003,11001349,2
-"아스트룸 개발 기록 콘텐츠를 모두 열람한다",1003,11001350,1
+emblem_id,condition_description,visible_type,icon_type
+11001348,"",2,1003
+11001349,"",2,1003
+11001350,"아스트룸 개발 기록 콘텐츠를 모두 열람한다",1,1003

@@ -1,4 +1,4 @@
-face_type,character_id,where_type,change_face_type,comment_id,change_face_time,voice_id,pos_x,pos_y,original_event_id
-1,131701,58,2,58001,7.7,101,-320.0,0.0,10150
-2,118602,58,1,58002,3.73,201,-320.0,0.0,10150
-2,131802,58,1,58003,6.12,301,-320.0,0.0,10150
+comment_id,where_type,change_face_type,original_event_id,character_id,face_type,pos_x,pos_y,change_face_time,voice_id
+58001,58,2,10150,131701,1,-320.0,0.0,7.7,101
+58002,58,1,10150,118602,2,-320.0,0.0,3.73,201
+58003,58,1,10150,131802,2,-320.0,0.0,6.12,301

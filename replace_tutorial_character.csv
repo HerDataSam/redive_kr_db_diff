@@ -1,3 +1,3 @@
-navi_unit_id,navi_position_x,id
-930901,0,10146
-131201,0,10148
+navi_position_x,id,navi_unit_id
+0,10146,930901
+0,10148,131201

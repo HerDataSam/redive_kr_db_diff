@@ -1,2 +1,2 @@
-block_type_to,reference_id_to,change_block_type_id,block_type_from
-7,10003,1,2
+block_type_from,block_type_to,reference_id_to,change_block_type_id
+2,7,10003,1
