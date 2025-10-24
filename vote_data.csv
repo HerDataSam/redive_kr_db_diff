@@ -1,2 +1,2 @@
-vote_id,result_start_time,result_story_id,result_end_time,vote_start_time,vote_end_time,start_story_id
-1,"2019-02-15 23:00:00",501,"2019-02-28 11:59:59","2019-02-08 15:00:00","2019-02-12 14:59:59",500
+vote_end_time,vote_id,result_story_id,vote_start_time,start_story_id,result_start_time,result_end_time
+"2019-02-12 14:59:59",1,501,"2019-02-08 15:00:00",500,"2019-02-15 23:00:00","2019-02-28 11:59:59"

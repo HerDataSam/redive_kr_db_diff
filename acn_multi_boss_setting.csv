@@ -1,4 +1,4 @@
-enemy_id,die_position_offset_y,die_position_offset_x,die_motion_pause_time
-804100201,0,0,1.5
-804100211,0,0,1.5
-804100221,0,0,1.5
+die_position_offset_y,die_position_offset_x,die_motion_pause_time,enemy_id
+0,0,1.5,804100201
+0,0,1.5,804100211
+0,0,1.5,804100221

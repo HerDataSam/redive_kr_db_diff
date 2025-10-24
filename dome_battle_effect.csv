@@ -1,30 +1,30 @@
-icon_name,description,effect_name,battle_effect_id
-poison_damage_up,"전투 중 「독」「맹독」 데미지가 큰 폭으로 증가한다.","독/맹독 데미지 증가",1
-burn_damage_up,"전투 중 「화상」 데미지가 큰 폭으로 증가한다.","화상 데미지 증가",2
-curse_damage_up,"전투 중 「저주」「주술」 데미지가 큰 폭으로 증가한다.","저주/주술 데미지 증가",3
-paralysis_time_extension,"전투 중 「마비」의 효과 시간이 증가한다.","마비 효과 시간 증가",4
-frozen_time_extension,"전투 중 「동결」의 효과 시간이 증가한다.","동결 효과 시간 증가",5
-bind_time_extension,"전투 중 「속박」의 효과 시간이 증가한다.","속박 효과 시간 증가",6
-stun_time_extension,"전투 중 「스턴」의 효과 시간이 증가한다.","스턴 효과 시간 증가",7
-poison_time_extension,"전투 중 「독」「맹독」의 효과 시간이 증가한다.","독/맹독 효과 시간 증가",8
-burn_time_extension,"전투 중 「화상」의 효과 시간이 증가한다.","화상 효과 시간 증가",9
-curse_time_extension,"전투 중 「저주」「주술」의 효과 시간이 증가한다.","저주/주술 효과 시간 증가",10
-temptation_time_extension,"전투 중 「유혹」의 효과 시간이 증가한다.","유혹 효과 시간 증가",11
-confusion_time_extension,"전투 중 「혼란」의 효과 시간이 증가한다.","혼란 효과 시간 증가",12
-attack_up,"전투 중 물리 공격력이 큰 폭으로 증가한다.","물리 공격력 증가",13
-magic_str_up,"전투 중 마법 공격력이 큰 폭으로 증가한다.","마법 공격력 증가",14
-defense_up,"전투 중 물리 방어력이 큰 폭으로 증가한다.","물리 방어력 증가",15
-magic_def_up,"전투 중 마법 방어력이 큰 폭으로 증가한다.","마법 방어력 증가",16
-physical_critical_up,"전투 중 물리 크리티컬이 큰 폭으로 증가한다.","물리 크리티컬 증가",17
-magic_critical_up,"전투 중 마법 크리티컬이 큰 폭으로 증가한다.","마법 크리티컬 증가",18
-energy_recovery_rate_up,"전투 중 TP 상승이 큰 폭으로 증가한다.","TP 상승 증가",19
-energy_recovery,"전투 시작 시 TP를 (특대) 회복한다.","전투 시작 시 TP (특대) 회복",20
-paralysis_hit_absolute,"전투 중 「마비」를 반드시 부여할 수 있는 상태가 된다.","마비 확정 부여",22
-frozen_hit_absolute,"전투 중 「동결」을 반드시 부여할 수 있는 상태가 된다.","동결 확정 부여",23
-bind_hit_absolute,"전투 중 「속박」을 반드시 부여할 수 있는 상태가 된다.","속박 확정 부여",24
-stun_hit_absolute,"전투 중 「스턴」을 반드시 부여할 수 있는 상태가 된다.","스턴 확정 부여",25
-poison_hit_absolute,"전투 중 「독」「맹독」을 반드시 부여할 수 있는 상태가 된다.","독/맹독 확정 부여",26
-burn_hit_absolute,"전투 중 「화상」을 반드시 부여할 수 있는 상태가 된다.","화상 확정 부여",27
-curse_hit_absolute,"전투 중 「저주」「주술」을 반드시 부여할 수 있는 상태가 된다.","저주/주술 확정 부여",28
-temptation_hit_absolute,"전투 중 「유혹」을 반드시 부여할 수 있는 상태가 된다.","유혹 확정 부여",29
-confusion_hit_absolute,"전투 중 「혼란」을 반드시 부여할 수 있는 상태가 된다.","혼란 확정 부여",30
+battle_effect_id,effect_name,icon_name,description
+1,"독/맹독 데미지 증가",poison_damage_up,"전투 중 「독」「맹독」 데미지가 큰 폭으로 증가한다."
+2,"화상 데미지 증가",burn_damage_up,"전투 중 「화상」 데미지가 큰 폭으로 증가한다."
+3,"저주/주술 데미지 증가",curse_damage_up,"전투 중 「저주」「주술」 데미지가 큰 폭으로 증가한다."
+4,"마비 효과 시간 증가",paralysis_time_extension,"전투 중 「마비」의 효과 시간이 증가한다."
+5,"동결 효과 시간 증가",frozen_time_extension,"전투 중 「동결」의 효과 시간이 증가한다."
+6,"속박 효과 시간 증가",bind_time_extension,"전투 중 「속박」의 효과 시간이 증가한다."
+7,"스턴 효과 시간 증가",stun_time_extension,"전투 중 「스턴」의 효과 시간이 증가한다."
+8,"독/맹독 효과 시간 증가",poison_time_extension,"전투 중 「독」「맹독」의 효과 시간이 증가한다."
+9,"화상 효과 시간 증가",burn_time_extension,"전투 중 「화상」의 효과 시간이 증가한다."
+10,"저주/주술 효과 시간 증가",curse_time_extension,"전투 중 「저주」「주술」의 효과 시간이 증가한다."
+11,"유혹 효과 시간 증가",temptation_time_extension,"전투 중 「유혹」의 효과 시간이 증가한다."
+12,"혼란 효과 시간 증가",confusion_time_extension,"전투 중 「혼란」의 효과 시간이 증가한다."
+13,"물리 공격력 증가",attack_up,"전투 중 물리 공격력이 큰 폭으로 증가한다."
+14,"마법 공격력 증가",magic_str_up,"전투 중 마법 공격력이 큰 폭으로 증가한다."
+15,"물리 방어력 증가",defense_up,"전투 중 물리 방어력이 큰 폭으로 증가한다."
+16,"마법 방어력 증가",magic_def_up,"전투 중 마법 방어력이 큰 폭으로 증가한다."
+17,"물리 크리티컬 증가",physical_critical_up,"전투 중 물리 크리티컬이 큰 폭으로 증가한다."
+18,"마법 크리티컬 증가",magic_critical_up,"전투 중 마법 크리티컬이 큰 폭으로 증가한다."
+19,"TP 상승 증가",energy_recovery_rate_up,"전투 중 TP 상승이 큰 폭으로 증가한다."
+20,"전투 시작 시 TP (특대) 회복",energy_recovery,"전투 시작 시 TP를 (특대) 회복한다."
+22,"마비 확정 부여",paralysis_hit_absolute,"전투 중 「마비」를 반드시 부여할 수 있는 상태가 된다."
+23,"동결 확정 부여",frozen_hit_absolute,"전투 중 「동결」을 반드시 부여할 수 있는 상태가 된다."
+24,"속박 확정 부여",bind_hit_absolute,"전투 중 「속박」을 반드시 부여할 수 있는 상태가 된다."
+25,"스턴 확정 부여",stun_hit_absolute,"전투 중 「스턴」을 반드시 부여할 수 있는 상태가 된다."
+26,"독/맹독 확정 부여",poison_hit_absolute,"전투 중 「독」「맹독」을 반드시 부여할 수 있는 상태가 된다."
+27,"화상 확정 부여",burn_hit_absolute,"전투 중 「화상」을 반드시 부여할 수 있는 상태가 된다."
+28,"저주/주술 확정 부여",curse_hit_absolute,"전투 중 「저주」「주술」을 반드시 부여할 수 있는 상태가 된다."
+29,"유혹 확정 부여",temptation_hit_absolute,"전투 중 「유혹」을 반드시 부여할 수 있는 상태가 된다."
+30,"혼란 확정 부여",confusion_hit_absolute,"전투 중 「혼란」을 반드시 부여할 수 있는 상태가 된다."
