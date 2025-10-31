@@ -1,4 +1,4 @@
-left_door_pre_drama_id,pos_id,travel_treasure_box_type,main_drama_id,event_icon_id,round,round_event_id,right_door_pre_drama_id,transition_drama_id
-2101,15,3,2001,1001,1,1,2201,1001
-2101,15,3,2001,1001,2,1,2201,1101
-2101,15,6,2001,1001,3,1,2201,1101
+main_drama_id,round,right_door_pre_drama_id,event_icon_id,pos_id,round_event_id,transition_drama_id,travel_treasure_box_type,left_door_pre_drama_id
+2001,1,2201,1001,15,1,1001,3,2101
+2001,2,2201,1001,15,1,1101,3,2101
+2001,3,2201,1001,15,1,1101,6,2101

@@ -1,2 +1,2 @@
-box_group_id,gacha_id,reset_item_group_id
-1001,1020101,1001
+gacha_id,box_group_id,reset_item_group_id
+1020101,1001,1001
