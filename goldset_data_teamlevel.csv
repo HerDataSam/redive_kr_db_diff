@@ -1,4 +1,4 @@
-id,initial_get_gold_count,team_level
+team_level,initial_get_gold_count,id
 1,0,1
 2,0,2
 3,0,3

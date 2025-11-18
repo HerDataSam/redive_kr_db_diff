@@ -1,2 +1,2 @@
-condition_story,contents_name,contents_type,event_id,condition_boss,condition_quest
-5201004,"アストルム開発録",4,10201,0,0
+condition_story,condition_quest,event_id,contents_type,condition_boss,contents_name
+5201004,0,10201,4,0,"アストルム開発録"

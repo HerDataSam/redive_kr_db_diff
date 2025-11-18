@@ -1,3 +1,3 @@
-action_start_second,unnecessary_defeat_chara,wave_group_id,trigger_hp,mode,purpose_count,purpose_type,quest_id
-5.0,0,804100401,0,1,200,4,1004
-5.0,0,804100402,0,2,0,1,1004
+mode,unnecessary_defeat_chara,purpose_count,quest_id,wave_group_id,action_start_second,purpose_type,trigger_hp
+1,0,200,1004,804100401,5.0,4,0
+2,0,0,1004,804100402,5.0,1,0

@@ -1,4 +1,4 @@
-count,id,upgrade_id
-500,1,2
-1000,2,3
-2000,3,3
+upgrade_id,id,count
+2,1,500
+3,2,1000
+3,3,2000
