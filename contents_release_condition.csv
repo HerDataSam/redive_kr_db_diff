@@ -1,5 +1,5 @@
-condition_story_id,condition_quest_id,condition_boss_id,event_id
-0,0,1014601,10146
-0,0,1014801,10148
-0,0,1015001,10150
-5154007,0,0,10154
+event_id,condition_story_id,condition_boss_id,condition_quest_id
+10146,0,1014601,0
+10148,0,1014801,0
+10150,0,1015001,0
+10154,5154007,0,0

@@ -1,5 +1,5 @@
-promotion_level,unlock_skill
-1,101
-2,201
-4,202
-7,301
+unlock_skill,promotion_level
+101,1
+201,2
+202,4
+301,7

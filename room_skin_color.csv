@@ -1,5 +1,5 @@
-skin_color_id,color_blue,color_green,color_red
-1,210,234,252
-2,225,241,255
-3,171,209,255
-4,141,181,229
+color_blue,color_red,color_green,skin_color_id
+210,252,234,1
+225,255,241,2
+171,255,209,3
+141,229,181,4

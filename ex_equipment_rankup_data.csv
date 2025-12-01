@@ -1,6 +1,6 @@
-rankup_level,item_id,rarity,consume_gold
-1,0,2,50000
-1,0,3,100000
-2,0,3,200000
-1,0,4,200000
-2,0,4,400000
+rankup_level,rarity,item_id,consume_gold
+1,2,0,50000
+1,3,0,100000
+2,3,0,200000
+1,4,0,200000
+2,4,0,400000
