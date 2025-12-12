@@ -1,6 +1,6 @@
-disp_order,detail_offset_y,detail_offset_x,must_kill_flag,id,special_battle_id,enemy_identify,detail_scale
-1,0.0,0.0,1,101001,101,1,1.0
-3,0.0,0.0,0,101002,102,1,1.1
-1,0.0,0.0,1,101003,102,2,0.6
-2,0.0,0.0,1,101004,102,3,0.8
-1,0.0,0.0,1,101005,103,1,1.0
+id,disp_order,enemy_identify,detail_offset_x,detail_offset_y,special_battle_id,detail_scale,must_kill_flag
+101001,1,1,0.0,0.0,101,1.0,1
+101002,3,1,0.0,0.0,102,1.1,0
+101003,1,2,0.0,0.0,102,0.6,1
+101004,2,3,0.0,0.0,102,0.8,1
+101005,1,1,0.0,0.0,103,1.0,1

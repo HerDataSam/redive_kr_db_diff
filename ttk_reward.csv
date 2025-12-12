@@ -1,3 +1,3 @@
-reward_type_2,reward_count_4,reward_id_2,reward_type_5,reward_id_4,mission_detail,reward_count_5,reward_type_1,reward_count_1,reward_count_2,reward_type_4,reward_id_5,reward_type_3,reward_count_3,reward_id_1,reward_id_3,ttk_score,id
-0,0,0,0,0,"누적 점수 192,000점을 획득하자",0,15,1,0,0,0,0,0,11001071,0,192000,1
-0,0,0,0,0,"누적 점수 480,000점을 획득하자",0,15,1,0,0,0,0,0,11001072,0,480000,2
+mission_detail,reward_count_5,reward_id_4,reward_id_2,reward_type_5,reward_count_4,reward_id_1,reward_type_3,reward_count_1,id,reward_type_4,reward_id_5,reward_type_1,reward_count_3,reward_type_2,reward_count_2,reward_id_3,ttk_score
+"누적 점수 192,000점을 획득하자",0,0,0,0,0,11001071,0,1,1,0,0,15,0,0,0,0,192000
+"누적 점수 480,000점을 획득하자",0,0,0,0,0,11001072,0,1,2,0,0,15,0,0,0,0,480000

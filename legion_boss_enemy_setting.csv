@@ -1,5 +1,5 @@
-detail_offset_x,detail_offset_y,detail_offset_scale,boss_id
-0,-20,1.0,802100240
--80,-20,1.0,802100241
-0,-20,1.0,802100244
-0,-20,1.0,802100245
+detail_offset_x,detail_offset_scale,detail_offset_y,boss_id
+0,1.0,-20,802100240
+-80,1.0,-20,802100241
+0,1.0,-20,802100244
+0,1.0,-20,802100245

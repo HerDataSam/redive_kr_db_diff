@@ -1,5 +1,5 @@
-reward_num_4,reward_type_5,enemy_id,reward_id_1,reward_id_3,reward_type_1,reward_num_5,result_movie,background,detail_boss_bg_size,reward_id_5,reward_num_3,reward_num_1,reward_type_4,bgm_que_id,bgm_sheet_id,result_boss_position_y,reward_id_2,reward_num_2,reward_type_3,detail_bg_id,quest_name,area,reward_type_2,limit_time,reward_id_4,detail_bg_position,detail_boss_bg_height
-20,0,610036501,91002,22002,8,0,503650101,102451,1.25,0,5,50,2,bgm_M17_02,bgm_M17,0,94002,100000,2,102451,"와이번",1,12,90,20002,0,-50
-20,0,610036502,91002,22002,8,0,503650201,102452,1.25,0,10,75,2,bgm_M17_02,bgm_M17,0,94002,150000,2,102452,"라이라이",2,12,90,20003,0,-50
-20,0,610036503,91002,22003,8,0,503650301,102453,1.25,0,10,100,2,bgm_M17_02,bgm_M17,0,94002,200000,2,102453,"지즈",3,12,90,20004,0,-50
-0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,"",4,0,90,0,0,0
+result_movie,bgm_que_id,detail_bg_id,result_boss_position_y,reward_type_3,detail_bg_position,limit_time,reward_id_2,detail_boss_bg_height,reward_num_5,reward_num_1,reward_type_2,reward_type_5,reward_id_3,reward_num_2,background,bgm_sheet_id,reward_id_5,reward_num_4,reward_type_1,enemy_id,detail_boss_bg_size,area,reward_id_4,reward_type_4,quest_name,reward_id_1,reward_num_3
+503650101,bgm_M17_02,102451,0,2,0,90,94002,-50,0,50,12,0,22002,100000,102451,bgm_M17,0,20,8,610036501,1.25,1,20002,2,"와이번",91002,5
+503650201,bgm_M17_02,102452,0,2,0,90,94002,-50,0,75,12,0,22002,150000,102452,bgm_M17,0,20,8,610036502,1.25,2,20003,2,"라이라이",91002,10
+503650301,bgm_M17_02,102453,0,2,0,90,94002,-50,0,100,12,0,22003,200000,102453,bgm_M17,0,20,8,610036503,1.25,3,20004,2,"지즈",91002,10
+0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,4,0,0,"",0,0
