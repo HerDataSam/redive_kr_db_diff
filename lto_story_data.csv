@@ -1,2 +1,2 @@
-reward_count,title,reward_type,event_id,condition_story_id,reward_id,sub_story_id
-1,"라피가 보낸 편지",2,10048,5048007,60473,1004801
+reward_type,reward_count,title,event_id,sub_story_id,reward_id,condition_story_id
+2,1,"라피가 보낸 편지",10048,1004801,60473,5048007

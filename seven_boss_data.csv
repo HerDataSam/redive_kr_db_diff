@@ -1,7 +1,7 @@
-event_id,wave_group_id,recommended_level,battle_bg_id,quest_name,wave_start_story_id,quest_id,condition_story_id,condition_time,difficulty,condition_quest_id,bgm_cue_name,detail_bg_id,first_clear_reward_group_id,limit_time,bgm_cue_sheet
-10201,610201101,90,103613,"前編ボスバトル（SCENARIO）",5201301,10201101,5201004,0,1,0,bgm_MC223,81020102,113001,90,bgm_MC223
-10201,610201151,90,81020101,"後編ボスバトル（SCENARIO）",5201311,10201151,5201009,"2026/03/05 15:00:00",1,0,bgm_MC224,81020103,113001,90,bgm_MC224
-10201,0,255,103613,"前編ボスバトル（SPECIAL）",0,10201201,0,0,2,10201101,bgm_MC223,103613,114001,90,bgm_MC223
-10201,0,255,81020101,"後編ボスバトル（SPECIAL）",0,10201251,0,"2026/03/05 15:00:00",2,10201151,bgm_MC224,81020104,114001,90,bgm_MC224
-10201,0,331,103613,"前編ボスバトル（SPECIAL＋）",0,10201501,0,0,3,10201201,bgm_MC223,103613,115001,90,bgm_MC223
-10201,0,331,81020101,"後編ボスバトル（SPECIAL＋）",0,10201551,0,"2026/03/05 15:00:00",3,10201251,bgm_MC224,81020104,115001,90,bgm_MC224
+wave_start_story_id,battle_bg_id,condition_quest_id,recommended_level,wave_group_id,detail_bg_id,quest_id,bgm_cue_name,limit_time,difficulty,bgm_cue_sheet,first_clear_reward_group_id,condition_story_id,event_id,quest_name,condition_time
+5201301,103613,0,90,610201101,81020102,10201101,bgm_MC223,90,1,bgm_MC223,113001,5201004,10201,"前編ボスバトル（SCENARIO）",0
+5201311,81020101,0,90,610201151,81020103,10201151,bgm_MC224,90,1,bgm_MC224,113001,5201009,10201,"後編ボスバトル（SCENARIO）","2026/03/05 15:00:00"
+0,103613,10201101,255,0,103613,10201201,bgm_MC223,90,2,bgm_MC223,114001,0,10201,"前編ボスバトル（SPECIAL）",0
+0,81020101,10201151,255,0,81020104,10201251,bgm_MC224,90,2,bgm_MC224,114001,0,10201,"後編ボスバトル（SPECIAL）","2026/03/05 15:00:00"
+0,103613,10201201,331,0,103613,10201501,bgm_MC223,90,3,bgm_MC223,115001,0,10201,"前編ボスバトル（SPECIAL＋）",0
+0,81020101,10201251,331,0,81020104,10201551,bgm_MC224,90,3,bgm_MC224,115001,0,10201,"後編ボスバトル（SPECIAL＋）","2026/03/05 15:00:00"

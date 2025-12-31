@@ -1,2 +1,2 @@
-dst_item_id,exchange_rate,src_item_id
-25101,100,25102
+src_item_id,exchange_rate,dst_item_id
+25102,100,25101

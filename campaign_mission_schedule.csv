@@ -1,2 +1,2 @@
-start_time,campaign_id,end_time,close_time
-"2021-01-18 15:00:00",1,"2021-02-02 04:59:59","2021-02-08 14:59:59"
+end_time,close_time,start_time,campaign_id
+"2021-02-02 04:59:59","2021-02-08 14:59:59","2021-01-18 15:00:00",1

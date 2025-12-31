@@ -1,2 +1,2 @@
-release_condition_quest_id,release_condition_boss_id,id
-10140110,1014001,1
+release_condition_boss_id,id,release_condition_quest_id
+1014001,1,10140110

@@ -1,4 +1,4 @@
-unit_id,restriction_group_id
-106401,1001
-120701,1001
-181201,1001
+restriction_group_id,unit_id
+1001,106401
+1001,120701
+1001,181201

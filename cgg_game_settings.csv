@@ -1,2 +1,2 @@
-goods_shelf_id,max_gacha_exchange_count,first_currency_reward_num,first_goods_shelf_reward_num,cgg_id,max_goods_count,exchange_luppi_rate,cgg_gacha_currency_id
-2814,100,100,1,1,99,100,60713
+max_goods_count,max_gacha_exchange_count,cgg_gacha_currency_id,cgg_id,goods_shelf_id,first_goods_shelf_reward_num,exchange_luppi_rate,first_currency_reward_num
+99,100,60713,1,2814,1,100,100

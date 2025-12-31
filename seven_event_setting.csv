@@ -1,2 +1,2 @@
-bgm_cue_sheet,title,unknown_11,banner_unit_id,unknown_5,unknown_9,unknown_10,event_id,unknown_7,unknown_6,bgm_cue_name,unknown_8
-bgm_MC219,"ダイブ・アストルム　\n七つの願いと創世の残響",0,136701,10,0,0,10201,62001,2,bgm_MC219,0
+event_id,unknown_7,unknown_5,unknown_8,unknown_6,banner_unit_id,bgm_cue_sheet,unknown_10,title,unknown_11,unknown_9,bgm_cue_name
+10201,62001,10,0,2,136701,bgm_MC219,0,"ダイブ・アストルム　\n七つの願いと創世の残響",0,0,bgm_MC219
