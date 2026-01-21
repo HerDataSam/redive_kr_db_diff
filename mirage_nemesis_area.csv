@@ -1,3 +1,3 @@
-nemesis_area_name,nemesis_id,condition_story_id,release_time
-"패동황제의 영역",1,2015007,"2025/11/18 14:00:00"
-"젠의 영역",2,2109007,"2025/11/18 14:00:00"
+nemesis_area_name,release_time,condition_story_id,nemesis_id
+"패동황제의 영역","2025/11/18 14:00:00",2015007,1
+"젠의 영역","2025/11/18 14:00:00",2109007,2

@@ -1,2 +1,2 @@
-condition_quest_id,id,complete_emblem_id,condition_boss_id
-10163110,1,11001285,1016301
+condition_quest_id,complete_emblem_id,id,condition_boss_id
+10163110,11001285,1,1016301
