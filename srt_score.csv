@@ -1,4 +1,4 @@
-coefficient_avg_answer_time,coefficient_read_type_3,coefficient_turn_bonus,constant_wrong_num,difficulty_level,coefficient_read_type_1,constant_turn_bonus,coefficient_count_priconne_panel,coefficient_read_type_2,coefficient_wrong_num,coefficient_fever
-1000000,300,400000,1200,1,200,3000,200,300,400000,50
-2000000,400,400000,1800,2,300,4000,300,400,600000,100
-3000000,600,400000,2400,3,400,5000,400,600,800000,150
+constant_wrong_num,coefficient_avg_answer_time,difficulty_level,coefficient_read_type_2,coefficient_read_type_1,coefficient_turn_bonus,coefficient_fever,coefficient_read_type_3,coefficient_count_priconne_panel,coefficient_wrong_num,constant_turn_bonus
+1200,1000000,1,300,200,400000,50,300,200,400000,3000
+1800,2000000,2,400,300,400000,100,400,300,600000,4000
+2400,3000000,3,600,400,400000,150,600,400,800000,5000

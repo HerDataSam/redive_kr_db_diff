@@ -1,3 +1,3 @@
-reward_type_3,event_id,id,reward_type_2,mission_id,reward_id_3,disp_group,reward_type_1,condition_value,start_time,destination_system_id,reward_num_3,reward_num_1,description,revival_type,reward_id_2,reward_id_1,condition_num,category_icon,mission_condition,mission_type,reward_num_2
-0,10201,102011,15,102011,0,401,8,1,"2026/02/27 15:00:00",6115,0,100,"妖狐カムラヲ・始原を1体倒そう（SCENARIO限定）",2,11001348,91002,1,601,9019,4,1
-0,10201,102012,15,102012,0,402,8,1,"2026/03/05 15:00:00",6115,0,100,"アルファ・レガリアスを1体倒そう（SCENARIO限定）",2,11001349,91002,1,601,9028,4,1
+reward_id_3,mission_condition,mission_type,reward_type_2,reward_num_1,start_time,description,id,condition_num,condition_value,reward_type_1,disp_group,mission_id,reward_id_2,revival_type,reward_type_3,reward_id_1,reward_num_3,event_id,reward_num_2,category_icon,destination_system_id
+0,9019,4,15,100,"2026/02/27 15:00:00","妖狐カムラヲ・始原を1体倒そう（SCENARIO限定）",102011,1,1,8,401,102011,11001348,2,0,91002,0,10201,1,601,6115
+0,9028,4,15,100,"2026/03/05 15:00:00","アルファ・レガリアスを1体倒そう（SCENARIO限定）",102012,1,1,8,402,102012,11001349,2,0,91002,0,10201,1,601,6115

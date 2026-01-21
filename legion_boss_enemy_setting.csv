@@ -1,5 +1,5 @@
-boss_id,detail_offset_scale,detail_offset_x,detail_offset_y
-802100240,1.0,0,-20
-802100241,1.0,-80,-20
-802100244,1.0,0,-20
-802100245,1.0,0,-20
+boss_id,detail_offset_y,detail_offset_x,detail_offset_scale
+802100240,-20,0,1.0
+802100241,-20,-80,1.0
+802100244,-20,0,1.0
+802100245,-20,0,1.0

@@ -1,2 +1,2 @@
-event_id,value,type
-10201,10074,4
+value,type,event_id
+10074,4,10201

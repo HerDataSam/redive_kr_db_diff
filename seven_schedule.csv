@@ -1,2 +1,2 @@
-start_time,mission_group_id,52cb03c3f6bd39292c2313c1830c36567348bab7219ea2903649a9451e339ebf,gacha_id,event_type,gacha_ticket_id,schedule_id,teaser_time,event_id,end_time
-"2026/02/27 15:00:00",101,1001,1020101,1,62011,1001,"2026/02/19 15:00:00",10201,"2026/03/22 4:59:59"
+event_id,end_time,52cb03c3f6bd39292c2313c1830c36567348bab7219ea2903649a9451e339ebf,gacha_id,teaser_time,event_type,schedule_id,gacha_ticket_id,start_time,mission_group_id
+10201,"2026/03/22 4:59:59",1001,1020101,"2026/02/19 15:00:00",1,1001,62011,"2026/02/27 15:00:00",101

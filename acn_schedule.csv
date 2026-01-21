@@ -1,2 +1,2 @@
-mission_end_time,mission_accept_end_time,teaser_time,close_story_id,mission_start_time,after_bgm,story_id,top_bgm,unlock_condition_story_id,count_start_time,close_story_condition_id,id
-"2025/09/21 14:59:59","2025/09/26 14:59:59","2025/09/10 15:00:00",2209007,"2025/09/16 15:00:00",bgm_MC178B,2000002,bgm_MC178A,2209006,"2025/09/20 14:59:59",9000004,1
+count_start_time,close_story_condition_id,unlock_condition_story_id,mission_start_time,teaser_time,id,top_bgm,mission_accept_end_time,after_bgm,story_id,close_story_id,mission_end_time
+"2025/09/20 14:59:59",9000004,2209006,"2025/09/16 15:00:00","2025/09/10 15:00:00",1,bgm_MC178A,"2025/09/26 14:59:59",bgm_MC178B,2000002,2209007,"2025/09/21 14:59:59"
