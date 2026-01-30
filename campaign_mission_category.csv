@@ -1,3 +1,3 @@
-lv_to,id,lv_from,campaign_id,type
-40,1,2,1,9
-999,2,2,1,10
+campaign_id,lv_to,lv_from,id,type
+1,40,2,1,9
+1,999,2,2,10

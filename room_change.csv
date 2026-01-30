@@ -1,2 +1,2 @@
-change_end,change_id,room_item_id,change_start
-"",1,10000,""
+change_id,change_end,change_start,room_item_id
+1,"","",10000

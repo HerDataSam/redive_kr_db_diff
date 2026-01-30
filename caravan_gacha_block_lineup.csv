@@ -1,2 +1,2 @@
-normal_gacha_cost,rare_gacha_odds,premium_gacha_odds,group_id,normal_gacha_odds,rare_gacha_cost,premium_gacha_cost
-0,20001,30001,10001,10001,1500,3000
+rare_gacha_odds,rare_gacha_cost,premium_gacha_cost,group_id,premium_gacha_odds,normal_gacha_odds,normal_gacha_cost
+20001,1500,3000,10001,30001,10001,0

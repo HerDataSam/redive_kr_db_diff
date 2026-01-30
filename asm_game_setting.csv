@@ -1,2 +1,2 @@
-unlock_concentration_mode_score_1,lottery_rate,incorrect_answer_penalty_time,concentration_limit_time,limit_score,unlock_concentration_mode_score_2,normal_quiz_num,normal_limit_time,help_use_count_hard,help_use_count_normal,concentration_quiz_limit_num,help_use_count_veryhard,id
-30000,0.25,5,99,9999999,30000,10,20,3,4,99,2,1
+help_use_count_veryhard,unlock_concentration_mode_score_1,id,help_use_count_hard,normal_limit_time,unlock_concentration_mode_score_2,concentration_quiz_limit_num,normal_quiz_num,incorrect_answer_penalty_time,limit_score,lottery_rate,concentration_limit_time,help_use_count_normal
+2,30000,1,3,20,30000,99,10,5,9999999,0.25,99,4
