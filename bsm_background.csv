@@ -1,4 +1,4 @@
-background_id,pos_y,stage_name,id,is_outdoor
-1,-400,"돌다리",1,1
-2,-400,"사막",2,0
-3,-400,"평원",3,1
+id,stage_name,background_id,is_outdoor,pos_y
+1,"돌다리",1,1,-400
+2,"사막",2,0,-400
+3,"평원",3,1,-400

@@ -1,6 +1,6 @@
-incorrect_word,word_id
-123456789,1
-ABCDEFGHIJKLMNOPQRSTUVWXYZ,2
-abcdefghijklmnopqrstuvwxyz,3
-"!? -+♪~@#%",4
-"",5
+word_id,incorrect_word
+1,123456789
+2,ABCDEFGHIJKLMNOPQRSTUVWXYZ
+3,abcdefghijklmnopqrstuvwxyz
+4,"!? -+♪~@#%"
+5,""

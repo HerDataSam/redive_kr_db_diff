@@ -1,2 +1,2 @@
-id,after_content_id,event_id,before_content_id,after_content_type,before_content_type
-10201001,201,10201,5201083,5,2
+id,after_content_type,before_content_id,after_content_id,event_id,before_content_type
+10201001,5,5201083,201,10201,2

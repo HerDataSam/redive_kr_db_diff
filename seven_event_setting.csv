@@ -1,2 +1,2 @@
-unknown_10,banner_unit_id,title,unknown_5,bgm_cue_name,unknown_8,unknown_11,unknown_9,unknown_7,bgm_cue_sheet,unknown_6,event_id
-0,136701,"ダイブ・アストルム　\n七つの願いと創世の残響",10,bgm_MC219,0,0,0,62001,bgm_MC219,2,10201
+event_id,banner_unit_id,unknown_11,unknown_6,unknown_9,title,unknown_7,bgm_cue_sheet,unknown_10,bgm_cue_name,unknown_5,unknown_8
+10201,136701,0,2,0,"다이브 아스트룸\n일곱 개의 소원과 창세의 잔향",62001,bgm_MC219,0,bgm_MC219,10,0

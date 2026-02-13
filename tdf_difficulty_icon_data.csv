@@ -1,6 +1,6 @@
-difficulty,effect_id,icon_name
-1,1,yellow
-2,1,yellow
-3,1,yellow
-4,2,red
-5,2,red
+effect_id,icon_name,difficulty
+1,yellow,1
+1,yellow,2
+1,yellow,3
+2,red,4
+2,red,5

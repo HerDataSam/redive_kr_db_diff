@@ -1,3 +1,3 @@
-action_start_second,quest_id,wave_group_id,step,wave_bgm,unnecessary_defeat_chara
-5.0,1005,804100501,1,bgm_MC181B,0
-5.0,1005,804100502,2,bgm_MC182,804100601
+quest_id,wave_bgm,wave_group_id,step,unnecessary_defeat_chara,action_start_second
+1005,bgm_MC181B,804100501,1,0,5.0
+1005,bgm_MC182,804100502,2,804100601,5.0

@@ -1,6 +1,6 @@
-reward_type_5,reward_type_1,reward_id_4,reward_count_1,reward_id_1,reward_type_3,reward_type_4,reward_count_5,reward_id_3,reward_count_3,reward_type_2,reward_id_2,reward_count_4,extermination_reward_group_id,reward_id_5,reward_count_2
-0,8,23001,1000,91002,2,2,0,20003,25,12,94002,20,1005,0,1250000
-0,8,23001,1000,91002,2,2,0,20003,25,12,94002,20,1006,0,1250000
-0,8,23001,1000,91002,2,2,0,20003,25,12,94002,20,1007,0,1250000
-0,8,23001,1000,91002,2,2,0,20003,25,12,94002,20,1008,0,1250000
-0,8,23001,1500,91002,2,2,0,20004,10,12,94002,50,2002,0,5000000
+reward_id_4,extermination_reward_group_id,reward_type_3,reward_type_4,reward_type_1,reward_type_2,reward_id_1,reward_id_3,reward_id_2,reward_id_5,reward_type_5,reward_count_1,reward_count_4,reward_count_2,reward_count_5,reward_count_3
+23001,1005,2,2,8,12,91002,20003,94002,0,0,1000,20,1250000,0,25
+23001,1006,2,2,8,12,91002,20003,94002,0,0,1000,20,1250000,0,25
+23001,1007,2,2,8,12,91002,20003,94002,0,0,1000,20,1250000,0,25
+23001,1008,2,2,8,12,91002,20003,94002,0,0,1000,20,1250000,0,25
+23001,2002,2,2,8,12,91002,20004,94002,0,0,1500,50,5000000,0,10

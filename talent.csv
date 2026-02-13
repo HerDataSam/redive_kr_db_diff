@@ -1,6 +1,6 @@
-talent_id,talent_name,talent_color
-1,"불",#e65d49
-2,"물",#1a78a7
-3,"바람",#628d2e
-4,"빛",#c7a004
-5,"어둠",#b86ada
+talent_color,talent_name,talent_id
+#e65d49,"불",1
+#1a78a7,"물",2
+#628d2e,"바람",3
+#c7a004,"빛",4
+#b86ada,"어둠",5
