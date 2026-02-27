@@ -1,4 +1,4 @@
-trigger_hp,mode,story_start_second,story_id_mode_start,wave_group_id,purpose_type,hp_gauge_color_flag,story_id_mode_end,action_start_second,unnecessary_defeat_chara,purpose_count
-0,1,1.5,9003516,802100321,1,1,9003517,5.0,0,0
-0,2,1.5,0,802100322,1,1,9003518,5.0,0,0
-0,3,1.5,0,802100323,1,1,0,5.0,0,0
+story_id_mode_start,hp_gauge_color_flag,trigger_hp,story_start_second,unnecessary_defeat_chara,action_start_second,mode,purpose_type,story_id_mode_end,wave_group_id,purpose_count
+9003516,1,0,1.5,0,5.0,1,1,9003517,802100321,0
+0,1,0,1.5,0,5.0,2,1,9003518,802100322,0
+0,1,0,1.5,0,5.0,3,1,0,802100323,0

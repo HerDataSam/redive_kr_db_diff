@@ -1,2 +1,2 @@
-chara1,pct_base_speed,chara1_gauge_choice,id,chara2,chara2_gauge_choice,fever_time,fever_point_max,fever_revention_time,pct_time
-109101,600,1,1,109001,1,2,60,500,30
+fever_revention_time,chara2,chara1,chara2_gauge_choice,pct_time,chara1_gauge_choice,id,pct_base_speed,fever_time,fever_point_max
+500,109001,109101,1,30,1,1,600,2,60

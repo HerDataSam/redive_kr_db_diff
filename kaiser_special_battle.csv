@@ -1,4 +1,4 @@
-unnecessary_defeat_chara,hp_gauge_color_flag,story_id_mode_start,purpose_type,start_idle_trigger,trigger_hp,purpose_count,mode,story_start_second,story_id_mode_end,appear_time,action_start_second,wave_group_id,recommended_level
-610019401,1,432,4,0,0,280,1,1.5,433,0.0,6.0,801100321,140
-0,1,0,1,0,50,0,2,1.5,434,0.0,5.0,801100322,140
-0,1,0,1,0,0,0,3,1.5,435,0.0,5.0,801100323,140
+story_id_mode_end,hp_gauge_color_flag,trigger_hp,start_idle_trigger,purpose_type,story_start_second,mode,action_start_second,unnecessary_defeat_chara,appear_time,wave_group_id,purpose_count,story_id_mode_start,recommended_level
+433,1,0,0,4,1.5,1,6.0,610019401,0.0,801100321,280,432,140
+434,1,50,0,1,1.5,2,5.0,0,0.0,801100322,0,0,140
+435,1,0,0,1,1.5,3,5.0,0,0.0,801100323,0,0,140

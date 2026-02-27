@@ -1,7 +1,7 @@
-limit_time,difficulty,wave_group_id,recommended_level,wave_start_story_id,bgm_cue_sheet,condition_quest_id,condition_time,quest_name,bgm_cue_name,detail_bg_id,battle_bg_id,quest_id,event_id,first_clear_reward_group_id,condition_story_id
-90,1,610201101,90,5201301,bgm_MC223,0,0,"전편 보스 배틀(SCENARIO)",bgm_MC223,81020102,103613,10201101,10201,113001,5201004
-90,1,610201151,90,5201311,bgm_MC224,0,"2026/03/05 15:00:00","후편 보스 배틀(SCENARIO)",bgm_MC224,81020103,81020101,10201151,10201,113001,5201009
-90,2,0,255,0,bgm_MC223,10201101,0,"전편 보스 배틀(SPECIAL)",bgm_MC223,103613,103613,10201201,10201,114001,0
-90,2,0,255,0,bgm_MC224,10201151,"2026/03/05 15:00:00","후편 보스 배틀(SPECIAL)",bgm_MC224,81020104,81020101,10201251,10201,114001,0
-90,3,0,331,0,bgm_MC223,10201201,0,"전편 보스 배틀(SPECIAL+)",bgm_MC223,103613,103613,10201501,10201,115001,0
-90,3,0,331,0,bgm_MC224,10201251,"2026/03/05 15:00:00","후편 보스 배틀(SPECIAL+)",bgm_MC224,81020104,81020101,10201551,10201,115001,0
+battle_bg_id,quest_id,difficulty,quest_name,condition_story_id,condition_quest_id,wave_start_story_id,bgm_cue_sheet,recommended_level,limit_time,wave_group_id,bgm_cue_name,first_clear_reward_group_id,condition_time,detail_bg_id,event_id
+103613,10201101,1,"전편 보스 배틀(SCENARIO)",5201004,0,5201301,bgm_MC223,90,90,610201101,bgm_MC223,113001,0,81020102,10201
+81020101,10201151,1,"후편 보스 배틀(SCENARIO)",5201009,0,5201311,bgm_MC224,90,90,610201151,bgm_MC224,113001,"2026/03/05 15:00:00",81020103,10201
+103613,10201201,2,"전편 보스 배틀(SPECIAL)",0,10201101,0,bgm_MC223,255,90,0,bgm_MC223,114001,0,103613,10201
+81020101,10201251,2,"후편 보스 배틀(SPECIAL)",0,10201151,0,bgm_MC224,255,90,0,bgm_MC224,114001,"2026/03/05 15:00:00",81020104,10201
+103613,10201501,3,"전편 보스 배틀(SPECIAL+)",0,10201201,0,bgm_MC223,331,90,0,bgm_MC223,115001,0,103613,10201
+81020101,10201551,3,"후편 보스 배틀(SPECIAL+)",0,10201251,0,bgm_MC224,331,90,0,bgm_MC224,115001,"2026/03/05 15:00:00",81020104,10201

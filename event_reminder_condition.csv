@@ -1,4 +1,4 @@
-id,condition_id,condition_type,reminder_id
+reminder_id,condition_id,condition_type,id
 1004601,5046601,1,1004601
 1004801,5048007,1,1004801
 1004802,1004801,2,1004802
