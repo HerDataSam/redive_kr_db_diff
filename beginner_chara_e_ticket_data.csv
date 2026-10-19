@@ -1,3 +1,4 @@
 forced_exchange_hour,start_time,ticket_id,beginner_id,beginner_type,chara_e_ticket_id,end_time,icon_id,beginner_limit_hour,jewel_store_id
 240,"2024/09/11 15:00:00",27011,1,1,27008,"2025/03/23 14:59:59",27011,240,361
 240,"2025/03/23 15:00:00",27011,2,1,27013,"2026/03/19 14:59:59",27011,240,361
+240,"2026/03/19 15:00:00",27011,3,1,27019,"2027/03/25 14:59:59",27011,240,361
